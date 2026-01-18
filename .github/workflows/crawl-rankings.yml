@@ -1,0 +1,204 @@
+name: Meki Rankings Crawler (mgf.gg)
+
+on:
+  schedule:
+    # KST 06:00(UTC 21:00), 10:00(UTC 01:00), 14:00(UTC 05:00), 18:00(UTC 09:00), 24:00(UTC 15:00)
+    - cron: '0 1,5,9,15,21 * * *'
+  workflow_dispatch: # 수동 실행 가능
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout this repository
+        uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: Install Playwright
+        run: |
+          npm install playwright
+          npx playwright install chromium
+          
+      - name: Download job icons
+        run: |
+          mkdir -p public/assets/meki/images/jobs
+          
+          declare -A JOB_ICONS=(
+            ["bowmaster"]="3001"
+            ["bishop"]="3004"
+            ["mage_fd"]="3002"
+            ["mage_sc"]="3003"
+            ["darkknight"]="1004"
+            ["hero"]="1002"
+            ["paladin"]="1003"
+            ["marksman"]="3005"
+            ["nightlord"]="4004"
+            ["shadower"]="4005"
+          )
+          
+          for job in "${!JOB_ICONS[@]}"; do
+            id="${JOB_ICONS[$job]}"
+            curl -s "https://mgf.gg/sim/assets/companion_jobs/${id}.png" -o "public/assets/meki/images/jobs/${job}.png" || true
+          done
+          
+          # Default icon
+          curl -s "https://mgf.gg/sim/assets/companion_jobs/1001.png" -o "public/assets/meki/images/jobs/default.png" || true
+          echo "Job icons downloaded"
+          
+      - name: Run crawler
+        run: |
+          node -e "
+          const { chromium } = require('playwright');
+
+          const PLAYER_URL = 'https://mgf.gg/ranking/';
+          const GUILD_URL = 'https://mgf.gg/ranking/guild_ranking.php';
+          const MAX_PLAYER_PAGES = 200;
+          const MAX_GUILD_PAGES = 500;
+
+          (async () => {
+            console.log('🚀 Starting mgf.gg rankings (ALL PAGES)...');
+            
+            const browser = await chromium.launch({ headless: true });
+            const context = await browser.newContext();
+            
+            const allPlayers = [];
+            const allGuilds = [];
+            
+            // ===== Player Rankings =====
+            console.log('📊 Crawling player rankings...');
+            const playerPage = await context.newPage();
+            
+            for (let pageNum = 1; pageNum <= MAX_PLAYER_PAGES; pageNum++) {
+              const url = pageNum === 1 ? PLAYER_URL : PLAYER_URL + '?page=' + pageNum;
+              if (pageNum % 20 === 1) console.log('  Player pages ' + pageNum + '...');
+              
+              try {
+                await playerPage.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
+                await playerPage.waitForTimeout(800);
+                
+                const players = await playerPage.\$\$eval('table tbody tr', (rows) => {
+                  return rows.map(row => {
+                    const cells = row.querySelectorAll('td');
+                    if (cells.length < 4) return null;
+                    const rank = parseInt(cells[0]?.innerText.replace(/[^\\d]/g, '')) || 0;
+                    
+                    const nicknameEl = cells[1]?.querySelector('.nickname');
+                    const nickname = nicknameEl?.innerText.trim() || '';
+                    
+                    const levelEl = cells[1]?.querySelector('.level');
+                    const level = levelEl ? parseInt(levelEl.innerText.replace(/[^\\d]/g, '')) : 0;
+                    
+                    const jobIcon = cells[1]?.querySelector('img.job-icon-profile');
+                    const job = jobIcon?.alt || '';
+                    
+                    const server = cells[2]?.innerText.trim() || '';
+                    const power = cells[3]?.innerText.trim() || '';
+                    return { rank, nickname, level, job, server, power };
+                  }).filter(r => r && r.rank > 0 && r.nickname);
+                });
+                
+                allPlayers.push(...players);
+                if (players.length === 0) break;
+              } catch (err) {
+                console.log('    Player page ' + pageNum + ' error: ' + err.message);
+                break;
+              }
+            }
+            await playerPage.close();
+            console.log('  Total players fetched: ' + allPlayers.length);
+            
+            // ===== Guild Rankings =====
+            console.log('📊 Crawling guild rankings...');
+            const guildPage = await context.newPage();
+            
+            for (let pageNum = 1; pageNum <= MAX_GUILD_PAGES; pageNum++) {
+              const url = pageNum === 1 ? GUILD_URL : GUILD_URL + '?page=' + pageNum;
+              if (pageNum % 50 === 1) console.log('  Guild pages ' + pageNum + '...');
+              
+              try {
+                await guildPage.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
+                await guildPage.waitForTimeout(600);
+                
+                const guilds = await guildPage.\$\$eval('table tbody tr', (rows) => {
+                  return rows.map(row => {
+                    const cells = row.querySelectorAll('td');
+                    if (cells.length < 4) return null;
+                    const rank = parseInt(cells[0]?.innerText.replace(/[^\\d]/g, '')) || 0;
+                    const nameCell = cells[1]?.innerText.trim().split('\\n').map(s => s.trim()).filter(s => s);
+                    const name = nameCell[0] || '';
+                    const levelMatch = nameCell.find(s => s.match(/Lv\\.\\d+/));
+                    const level = levelMatch ? parseInt(levelMatch.replace(/[^\\d]/g, '')) : 0;
+                    const membersMatch = cells[2]?.innerText.match(/(\\d+)\\s*\\/\\s*(\\d+)/);
+                    const members = membersMatch ? parseInt(membersMatch[1]) : 0;
+                    const maxMembers = membersMatch ? parseInt(membersMatch[2]) : 30;
+                    const server = cells[3]?.innerText.trim() || '';
+                    const power = cells[4]?.innerText.trim() || '';
+                    return { rank, name, level, members, maxMembers, server, power };
+                  }).filter(r => r && r.rank > 0 && r.name);
+                });
+                
+                allGuilds.push(...guilds);
+                if (guilds.length === 0) break;
+              } catch (err) {
+                console.log('    Guild page ' + pageNum + ' error: ' + err.message);
+                break;
+              }
+            }
+            await guildPage.close();
+            console.log('  Total guilds fetched: ' + allGuilds.length);
+            
+            await browser.close();
+            
+            // Deduplicate
+            const uniquePlayers = [...new Map(allPlayers.map(p => [p.rank, p])).values()];
+            const uniqueGuilds = [...new Map(allGuilds.map(g => [g.rank, g])).values()];
+            
+            const data = {
+              updated_at: new Date().toISOString(),
+              players: { total: uniquePlayers.length, data: uniquePlayers },
+              guilds: { total: uniqueGuilds.length, data: uniqueGuilds }
+            };
+            
+            const fs = require('fs');
+            const path = require('path');
+            
+            const outDir = path.join(process.cwd(), 'public', 'data', 'meki');
+            fs.mkdirSync(outDir, { recursive: true });
+            
+            const outPath = path.join(outDir, 'rankings.json');
+            fs.writeFileSync(outPath, JSON.stringify(data, null, 2), 'utf-8');
+            
+            console.log('📈 Unique players: ' + uniquePlayers.length);
+            console.log('📈 Unique guilds: ' + uniqueGuilds.length);
+            console.log('✅ Saved to ' + outPath);
+            console.log('🎉 Done!');
+          })();
+          "
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add public/
+          git diff --staged --quiet || git commit -m "📊 Rankings updated: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+          
+      - name: Summary
+        run: |
+          echo "## 🎉 Rankings Crawl Complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Time**: $(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          if [ -f "public/data/meki/rankings.json" ]; then
+            PLAYERS=$(cat public/data/meki/rankings.json | python3 -c "import sys,json; print(json.load(sys.stdin)['players']['total'])")
+            GUILDS=$(cat public/data/meki/rankings.json | python3 -c "import sys,json; print(json.load(sys.stdin)['guilds']['total'])")
+            echo "- **Players**: $PLAYERS" >> $GITHUB_STEP_SUMMARY
+            echo "- **Guilds**: $GUILDS" >> $GITHUB_STEP_SUMMARY
+          fi

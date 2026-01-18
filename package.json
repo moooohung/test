@@ -1,0 +1,12 @@
+{
+  "name": "meki-rankings-crawler",
+  "version": "1.0.0",
+  "description": "MGF.gg rankings crawler",
+  "private": true,
+  "scripts": {
+    "crawl": "node crawl_rankings.cjs"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}
