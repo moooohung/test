@@ -1,0 +1,2563 @@
+{
+  "updated_at": "2026-01-18T15:01:47.394Z",
+  "players": {
+    "total": 150,
+    "data": [
+      {
+        "rank": 1,
+        "nickname": "당당히돌아와",
+        "level": 110,
+        "job": "다크나이트",
+        "server": "Scania 10",
+        "power": "7681조 3789억"
+      },
+      {
+        "rank": 2,
+        "nickname": "전설속의그놈",
+        "level": 110,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 56",
+        "power": "7035조 3842억"
+      },
+      {
+        "rank": 3,
+        "nickname": "데카짱",
+        "level": 110,
+        "job": "나이트로드",
+        "server": "Scania 6",
+        "power": "6921조 9320억"
+      },
+      {
+        "rank": 4,
+        "nickname": "낙지",
+        "level": 109,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 2",
+        "power": "5660조 3695억"
+      },
+      {
+        "rank": 5,
+        "nickname": "귀폭술사",
+        "level": 110,
+        "job": "아크메이지(불,독)",
+        "server": "Scania 13",
+        "power": "5077조 2805억"
+      },
+      {
+        "rank": 6,
+        "nickname": "rsrgg",
+        "level": 110,
+        "job": "나이트로드",
+        "server": "Scania 21",
+        "power": "4689조 7628억"
+      },
+      {
+        "rank": 7,
+        "nickname": "방호",
+        "level": 110,
+        "job": "나이트로드",
+        "server": "Scania 2",
+        "power": "4126조 3296억"
+      },
+      {
+        "rank": 8,
+        "nickname": "고등어김치찜",
+        "level": 109,
+        "job": "다크나이트",
+        "server": "Scania 38",
+        "power": "3929조 5547억"
+      },
+      {
+        "rank": 9,
+        "nickname": "아이중",
+        "level": 109,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 16",
+        "power": "3818조 1304억"
+      },
+      {
+        "rank": 10,
+        "nickname": "RichardMille",
+        "level": 108,
+        "job": "나이트로드",
+        "server": "Scania 41",
+        "power": "3710조 2622억"
+      },
+      {
+        "rank": 11,
+        "nickname": "장어남",
+        "level": 108,
+        "job": "나이트로드",
+        "server": "Scania 3",
+        "power": "3608조 1600억"
+      },
+      {
+        "rank": 12,
+        "nickname": "차신",
+        "level": 109,
+        "job": "섀도어",
+        "server": "Scania 16",
+        "power": "3594조 3044억"
+      },
+      {
+        "rank": 13,
+        "nickname": "노가드",
+        "level": 110,
+        "job": "다크나이트",
+        "server": "Scania 4",
+        "power": "3243조 3865억"
+      },
+      {
+        "rank": 14,
+        "nickname": "모든스킬레벨",
+        "level": 109,
+        "job": "다크나이트",
+        "server": "Scania 30",
+        "power": "3055조 7133억"
+      },
+      {
+        "rank": 15,
+        "nickname": "세카",
+        "level": 108,
+        "job": "섀도어",
+        "server": "Scania 19",
+        "power": "2796조 8678억"
+      },
+      {
+        "rank": 16,
+        "nickname": "부산불주먹",
+        "level": 108,
+        "job": "나이트로드",
+        "server": "Scania 25",
+        "power": "2747조 7705억"
+      },
+      {
+        "rank": 17,
+        "nickname": "놀힐",
+        "level": 108,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 34",
+        "power": "2597조 4223억"
+      },
+      {
+        "rank": 18,
+        "nickname": "snowless",
+        "level": 108,
+        "job": "나이트로드",
+        "server": "Scania 34",
+        "power": "2594조 5422억"
+      },
+      {
+        "rank": 19,
+        "nickname": "은꾸",
+        "level": 108,
+        "job": "히어로",
+        "server": "Scania 4",
+        "power": "2557조 8596억"
+      },
+      {
+        "rank": 20,
+        "nickname": "슷파",
+        "level": 109,
+        "job": "히어로",
+        "server": "Scania 5",
+        "power": "2544조 5846억"
+      },
+      {
+        "rank": 21,
+        "nickname": "트르미",
+        "level": 109,
+        "job": "나이트로드",
+        "server": "Scania 19",
+        "power": "2538조 3676억"
+      },
+      {
+        "rank": 22,
+        "nickname": "수백설희",
+        "level": 108,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 36",
+        "power": "2434조 3603억"
+      },
+      {
+        "rank": 23,
+        "nickname": "권땡깡",
+        "level": 108,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 42",
+        "power": "2372조 9658억"
+      },
+      {
+        "rank": 24,
+        "nickname": "화이트이글",
+        "level": 108,
+        "job": "히어로",
+        "server": "Scania 22",
+        "power": "2367조 4996억"
+      },
+      {
+        "rank": 25,
+        "nickname": "응딩E",
+        "level": 108,
+        "job": "히어로",
+        "server": "Scania 32",
+        "power": "2306조 4621억"
+      },
+      {
+        "rank": 26,
+        "nickname": "그뭉",
+        "level": 108,
+        "job": "나이트로드",
+        "server": "Scania 26",
+        "power": "2216조 2980억"
+      },
+      {
+        "rank": 27,
+        "nickname": "FullStack",
+        "level": 108,
+        "job": "히어로",
+        "server": "Scania 48",
+        "power": "2188조 5681억"
+      },
+      {
+        "rank": 28,
+        "nickname": "임준태",
+        "level": 108,
+        "job": "섀도어",
+        "server": "Scania 47",
+        "power": "2184조 8240억"
+      },
+      {
+        "rank": 29,
+        "nickname": "쿠팡왓숑",
+        "level": 107,
+        "job": "보우마스터",
+        "server": "Scania 36",
+        "power": "2022조 4768억"
+      },
+      {
+        "rank": 30,
+        "nickname": "주막",
+        "level": 108,
+        "job": "나이트로드",
+        "server": "Scania 7",
+        "power": "2013조 872억"
+      },
+      {
+        "rank": 31,
+        "nickname": "카쿰",
+        "level": 107,
+        "job": "나이트로드",
+        "server": "Scania 12",
+        "power": "1875조 6502억"
+      },
+      {
+        "rank": 32,
+        "nickname": "횡재",
+        "level": 107,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 10",
+        "power": "1857조 4913억"
+      },
+      {
+        "rank": 33,
+        "nickname": "댄초이",
+        "level": 106,
+        "job": "보우마스터",
+        "server": "Scania 49",
+        "power": "1843조 7758억"
+      },
+      {
+        "rank": 34,
+        "nickname": "챌린",
+        "level": 107,
+        "job": "나이트로드",
+        "server": "Scania 28",
+        "power": "1825조 9414억"
+      },
+      {
+        "rank": 35,
+        "nickname": "쌤디",
+        "level": 108,
+        "job": "다크나이트",
+        "server": "Scania 24",
+        "power": "1780조 5270억"
+      },
+      {
+        "rank": 36,
+        "nickname": "국어선생님",
+        "level": 108,
+        "job": "다크나이트",
+        "server": "Scania 10",
+        "power": "1730조 4691억"
+      },
+      {
+        "rank": 37,
+        "nickname": "난대길",
+        "level": 108,
+        "job": "섀도어",
+        "server": "Scania 8",
+        "power": "1677조 6414억"
+      },
+      {
+        "rank": 38,
+        "nickname": "쭈니형이양",
+        "level": 108,
+        "job": "아크메이지(불,독)",
+        "server": "Scania 19",
+        "power": "1629조 9175억"
+      },
+      {
+        "rank": 39,
+        "nickname": "다락쥐",
+        "level": 107,
+        "job": "신궁",
+        "server": "Scania 1",
+        "power": "1621조 7269억"
+      },
+      {
+        "rank": 40,
+        "nickname": "현쑤우",
+        "level": 107,
+        "job": "신궁",
+        "server": "Scania 50",
+        "power": "1591조 2709억"
+      },
+      {
+        "rank": 41,
+        "nickname": "마왕비틀",
+        "level": 107,
+        "job": "아크메이지(불,독)",
+        "server": "Scania 11",
+        "power": "1553조 6679억"
+      },
+      {
+        "rank": 42,
+        "nickname": "아트다",
+        "level": 107,
+        "job": "나이트로드",
+        "server": "Scania 48",
+        "power": "1550조 8102억"
+      },
+      {
+        "rank": 43,
+        "nickname": "쑤인",
+        "level": 107,
+        "job": "나이트로드",
+        "server": "Scania 1",
+        "power": "1550조 3519억"
+      },
+      {
+        "rank": 44,
+        "nickname": "왕흘",
+        "level": 108,
+        "job": "히어로",
+        "server": "Scania 23",
+        "power": "1540조 112억"
+      },
+      {
+        "rank": 45,
+        "nickname": "26디올",
+        "level": 106,
+        "job": "나이트로드",
+        "server": "Scania 46",
+        "power": "1523조 139억"
+      },
+      {
+        "rank": 46,
+        "nickname": "유환2",
+        "level": 107,
+        "job": "신궁",
+        "server": "Scania 41",
+        "power": "1507조 9006억"
+      },
+      {
+        "rank": 47,
+        "nickname": "샤낼",
+        "level": 107,
+        "job": "다크나이트",
+        "server": "Scania 16",
+        "power": "1500조 1320억"
+      },
+      {
+        "rank": 48,
+        "nickname": "명예훈장",
+        "level": 108,
+        "job": "보우마스터",
+        "server": "Scania 1",
+        "power": "1488조 975억"
+      },
+      {
+        "rank": 49,
+        "nickname": "맹짱구",
+        "level": 108,
+        "job": "다크나이트",
+        "server": "Scania 27",
+        "power": "1450조 686억"
+      },
+      {
+        "rank": 50,
+        "nickname": "쥬옹",
+        "level": 107,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 7",
+        "power": "1404조 1849억"
+      },
+      {
+        "rank": 51,
+        "nickname": "로로로아빠",
+        "level": 106,
+        "job": "나이트로드",
+        "server": "Scania 25",
+        "power": "1389조 9994억"
+      },
+      {
+        "rank": 52,
+        "nickname": "꿀자몽차",
+        "level": 106,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 18",
+        "power": "1380조 8409억"
+      },
+      {
+        "rank": 53,
+        "nickname": "이욱",
+        "level": 108,
+        "job": "나이트로드",
+        "server": "Scania 31",
+        "power": "1358조 9508억"
+      },
+      {
+        "rank": 54,
+        "nickname": "오구릿",
+        "level": 109,
+        "job": "섀도어",
+        "server": "Scania 27",
+        "power": "1347조 4426억"
+      },
+      {
+        "rank": 55,
+        "nickname": "배감쟈",
+        "level": 107,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 49",
+        "power": "1246조 1507억"
+      },
+      {
+        "rank": 56,
+        "nickname": "초대주세요",
+        "level": 107,
+        "job": "섀도어",
+        "server": "Scania 18",
+        "power": "1231조 4767억"
+      },
+      {
+        "rank": 57,
+        "nickname": "이미새벽",
+        "level": 108,
+        "job": "다크나이트",
+        "server": "Scania 20",
+        "power": "1213조 9439억"
+      },
+      {
+        "rank": 58,
+        "nickname": "김소민",
+        "level": 106,
+        "job": "신궁",
+        "server": "Scania 41",
+        "power": "1191조 9682억"
+      },
+      {
+        "rank": 59,
+        "nickname": "메키가즈아",
+        "level": 107,
+        "job": "나이트로드",
+        "server": "Scania 45",
+        "power": "1169조 2316억"
+      },
+      {
+        "rank": 60,
+        "nickname": "류진",
+        "level": 107,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 1",
+        "power": "1149조 1969억"
+      },
+      {
+        "rank": 61,
+        "nickname": "콜떡",
+        "level": 106,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 21",
+        "power": "1106조 9200억"
+      },
+      {
+        "rank": 62,
+        "nickname": "반코팅장갑",
+        "level": 106,
+        "job": "히어로",
+        "server": "Scania 33",
+        "power": "1105조 286억"
+      },
+      {
+        "rank": 63,
+        "nickname": "도도배",
+        "level": 106,
+        "job": "다크나이트",
+        "server": "Scania 35",
+        "power": "1104조 8673억"
+      },
+      {
+        "rank": 64,
+        "nickname": "엉성해",
+        "level": 106,
+        "job": "나이트로드",
+        "server": "Scania 7",
+        "power": "1093조 4470억"
+      },
+      {
+        "rank": 65,
+        "nickname": "까까92",
+        "level": 107,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 56",
+        "power": "1086조 8039억"
+      },
+      {
+        "rank": 66,
+        "nickname": "요구르트",
+        "level": 106,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 5",
+        "power": "1086조 3826억"
+      },
+      {
+        "rank": 67,
+        "nickname": "희수토리",
+        "level": 107,
+        "job": "아크메이지(불,독)",
+        "server": "Scania 9",
+        "power": "1085조 7137억"
+      },
+      {
+        "rank": 68,
+        "nickname": "뭐먹지",
+        "level": 108,
+        "job": "섀도어",
+        "server": "Scania 31",
+        "power": "1073조 7977억"
+      },
+      {
+        "rank": 69,
+        "nickname": "방호의SCV",
+        "level": 108,
+        "job": "아크메이지(불,독)",
+        "server": "Scania 2",
+        "power": "1061조 811억"
+      },
+      {
+        "rank": 70,
+        "nickname": "문회",
+        "level": 106,
+        "job": "아크메이지(불,독)",
+        "server": "Scania 43",
+        "power": "1048조 9918억"
+      },
+      {
+        "rank": 71,
+        "nickname": "엽엽단",
+        "level": 108,
+        "job": "다크나이트",
+        "server": "Scania 37",
+        "power": "1045조 5093억"
+      },
+      {
+        "rank": 72,
+        "nickname": "신궁하지마",
+        "level": 107,
+        "job": "신궁",
+        "server": "Scania 34",
+        "power": "1039조 9181억"
+      },
+      {
+        "rank": 73,
+        "nickname": "청왕",
+        "level": 107,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 16",
+        "power": "1033조 9311억"
+      },
+      {
+        "rank": 74,
+        "nickname": "초보",
+        "level": 108,
+        "job": "아크메이지(불,독)",
+        "server": "Scania 1",
+        "power": "1025조 6721억"
+      },
+      {
+        "rank": 75,
+        "nickname": "나로형",
+        "level": 105,
+        "job": "나이트로드",
+        "server": "Scania 52",
+        "power": "1005조 2117억"
+      },
+      {
+        "rank": 76,
+        "nickname": "문정민",
+        "level": 107,
+        "job": "신궁",
+        "server": "Scania 43",
+        "power": "1004조 9193억"
+      },
+      {
+        "rank": 77,
+        "nickname": "거한",
+        "level": 106,
+        "job": "아크메이지(불,독)",
+        "server": "Scania 34",
+        "power": "1004조 6520억"
+      },
+      {
+        "rank": 78,
+        "nickname": "유쉬",
+        "level": 105,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 38",
+        "power": "984조 4541억"
+      },
+      {
+        "rank": 79,
+        "nickname": "호슝파파",
+        "level": 105,
+        "job": "나이트로드",
+        "server": "Scania 27",
+        "power": "964조 6147억"
+      },
+      {
+        "rank": 80,
+        "nickname": "악저씨",
+        "level": 106,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 35",
+        "power": "958조 2451억"
+      },
+      {
+        "rank": 81,
+        "nickname": "Acro",
+        "level": 107,
+        "job": "히어로",
+        "server": "Scania 7",
+        "power": "943조 1456억"
+      },
+      {
+        "rank": 82,
+        "nickname": "9966",
+        "level": 107,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 31",
+        "power": "906조 9872억"
+      },
+      {
+        "rank": 83,
+        "nickname": "로드",
+        "level": 107,
+        "job": "나이트로드",
+        "server": "Scania 1",
+        "power": "885조 2989억"
+      },
+      {
+        "rank": 84,
+        "nickname": "70000",
+        "level": 108,
+        "job": "보우마스터",
+        "server": "Scania 29",
+        "power": "877조 1913억"
+      },
+      {
+        "rank": 85,
+        "nickname": "갓꾸미",
+        "level": 105,
+        "job": "히어로",
+        "server": "Scania 57",
+        "power": "857조 6495억"
+      },
+      {
+        "rank": 86,
+        "nickname": "독칼",
+        "level": 106,
+        "job": "아크메이지(불,독)",
+        "server": "Scania 28",
+        "power": "853조 4445억"
+      },
+      {
+        "rank": 87,
+        "nickname": "얼짱",
+        "level": 107,
+        "job": "나이트로드",
+        "server": "Scania 1",
+        "power": "849조 153억"
+      },
+      {
+        "rank": 88,
+        "nickname": "난만춘",
+        "level": 107,
+        "job": "나이트로드",
+        "server": "Scania 12",
+        "power": "843조 3011억"
+      },
+      {
+        "rank": 89,
+        "nickname": "뭐먹고살래",
+        "level": 107,
+        "job": "아크메이지(불,독)",
+        "server": "Scania 21",
+        "power": "831조 9871억"
+      },
+      {
+        "rank": 90,
+        "nickname": "지존표도",
+        "level": 104,
+        "job": "나이트로드",
+        "server": "Scania 1",
+        "power": "812조 9436억"
+      },
+      {
+        "rank": 91,
+        "nickname": "범털",
+        "level": 106,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 8",
+        "power": "807조 7264억"
+      },
+      {
+        "rank": 92,
+        "nickname": "팡꼬",
+        "level": 106,
+        "job": "나이트로드",
+        "server": "Scania 26",
+        "power": "805조 8689억"
+      },
+      {
+        "rank": 93,
+        "nickname": "사시길드만팸",
+        "level": 104,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 48",
+        "power": "777조 9413억"
+      },
+      {
+        "rank": 94,
+        "nickname": "동재불왈팜",
+        "level": 104,
+        "job": "나이트로드",
+        "server": "Scania 48",
+        "power": "763조 492억"
+      },
+      {
+        "rank": 95,
+        "nickname": "이노92",
+        "level": 106,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 56",
+        "power": "747조 6279억"
+      },
+      {
+        "rank": 96,
+        "nickname": "까까배배",
+        "level": 106,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 56",
+        "power": "747조 6279억"
+      },
+      {
+        "rank": 97,
+        "nickname": "은옹이",
+        "level": 106,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 23",
+        "power": "746조 8160억"
+      },
+      {
+        "rank": 98,
+        "nickname": "찬뻔뻔",
+        "level": 105,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 36",
+        "power": "730조 443억"
+      },
+      {
+        "rank": 99,
+        "nickname": "찬삐삐",
+        "level": 105,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 36",
+        "power": "730조 443억"
+      },
+      {
+        "rank": 100,
+        "nickname": "아카산",
+        "level": 107,
+        "job": "히어로",
+        "server": "Scania 37",
+        "power": "726조 2852억"
+      },
+      {
+        "rank": 101,
+        "nickname": "설재현",
+        "level": 106,
+        "job": "나이트로드",
+        "server": "Scania 32",
+        "power": "721조 8312억"
+      },
+      {
+        "rank": 102,
+        "nickname": "조선검객",
+        "level": 106,
+        "job": "히어로",
+        "server": "Scania 23",
+        "power": "719조 7398억"
+      },
+      {
+        "rank": 103,
+        "nickname": "프로",
+        "level": 106,
+        "job": "섀도어",
+        "server": "Scania 1",
+        "power": "717조 7301억"
+      },
+      {
+        "rank": 104,
+        "nickname": "운우왕",
+        "level": 105,
+        "job": "나이트로드",
+        "server": "Scania 3",
+        "power": "714조 3268억"
+      },
+      {
+        "rank": 105,
+        "nickname": "Zi존영빈123",
+        "level": 106,
+        "job": "아크메이지(불,독)",
+        "server": "Scania 53",
+        "power": "709조 1159억"
+      },
+      {
+        "rank": 106,
+        "nickname": "민두광",
+        "level": 105,
+        "job": "나이트로드",
+        "server": "Scania 36",
+        "power": "706조 646억"
+      },
+      {
+        "rank": 107,
+        "nickname": "웅기",
+        "level": 104,
+        "job": "나이트로드",
+        "server": "Scania 3",
+        "power": "695조 5865억"
+      },
+      {
+        "rank": 108,
+        "nickname": "참명",
+        "level": 105,
+        "job": "나이트로드",
+        "server": "Scania 5",
+        "power": "692조 4850억"
+      },
+      {
+        "rank": 109,
+        "nickname": "으뉴리",
+        "level": 107,
+        "job": "아크메이지(불,독)",
+        "server": "Scania 12",
+        "power": "691조 7862억"
+      },
+      {
+        "rank": 110,
+        "nickname": "질린다질려",
+        "level": 107,
+        "job": "나이트로드",
+        "server": "Scania 13",
+        "power": "685조 6137억"
+      },
+      {
+        "rank": 111,
+        "nickname": "압살라마이쿰",
+        "level": 107,
+        "job": "보우마스터",
+        "server": "Scania 38",
+        "power": "684조 7192억"
+      },
+      {
+        "rank": 112,
+        "nickname": "바내",
+        "level": 107,
+        "job": "나이트로드",
+        "server": "Scania 43",
+        "power": "683조 649억"
+      },
+      {
+        "rank": 113,
+        "nickname": "빌쌔",
+        "level": 105,
+        "job": "나이트로드",
+        "server": "Scania 18",
+        "power": "667조 9302억"
+      },
+      {
+        "rank": 114,
+        "nickname": "루나제프",
+        "level": 106,
+        "job": "섀도어",
+        "server": "Scania 13",
+        "power": "662조 3449억"
+      },
+      {
+        "rank": 115,
+        "nickname": "눈찡긋",
+        "level": 106,
+        "job": "나이트로드",
+        "server": "Scania 19",
+        "power": "662조 649억"
+      },
+      {
+        "rank": 116,
+        "nickname": "크리님",
+        "level": 105,
+        "job": "섀도어",
+        "server": "Scania 28",
+        "power": "653조 4484억"
+      },
+      {
+        "rank": 117,
+        "nickname": "찬삔삔",
+        "level": 105,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 36",
+        "power": "652조 5422억"
+      },
+      {
+        "rank": 118,
+        "nickname": "우희",
+        "level": 106,
+        "job": "나이트로드",
+        "server": "Scania 5",
+        "power": "639조 9149억"
+      },
+      {
+        "rank": 119,
+        "nickname": "찐오",
+        "level": 104,
+        "job": "나이트로드",
+        "server": "Scania 56",
+        "power": "637조 7141억"
+      },
+      {
+        "rank": 120,
+        "nickname": "걸이",
+        "level": 107,
+        "job": "다크나이트",
+        "server": "Scania 6",
+        "power": "630조 2208억"
+      },
+      {
+        "rank": 121,
+        "nickname": "홍콩반점",
+        "level": 104,
+        "job": "섀도어",
+        "server": "Scania 21",
+        "power": "619조 938억"
+      },
+      {
+        "rank": 122,
+        "nickname": "둥이곰이",
+        "level": 104,
+        "job": "히어로",
+        "server": "Scania 66",
+        "power": "616조 8177억"
+      },
+      {
+        "rank": 123,
+        "nickname": "정이유",
+        "level": 105,
+        "job": "보우마스터",
+        "server": "Scania 31",
+        "power": "608조 8960억"
+      },
+      {
+        "rank": 124,
+        "nickname": "썬더민초",
+        "level": 106,
+        "job": "아크메이지(불,독)",
+        "server": "Scania 14",
+        "power": "606조 208억"
+      },
+      {
+        "rank": 125,
+        "nickname": "명호님",
+        "level": 105,
+        "job": "보우마스터",
+        "server": "Scania 42",
+        "power": "605조 9988억"
+      },
+      {
+        "rank": 126,
+        "nickname": "내동수비대",
+        "level": 105,
+        "job": "히어로",
+        "server": "Scania 25",
+        "power": "600조 6302억"
+      },
+      {
+        "rank": 127,
+        "nickname": "무등산호랭이",
+        "level": 105,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 7",
+        "power": "580조 3014억"
+      },
+      {
+        "rank": 128,
+        "nickname": "옷깃",
+        "level": 104,
+        "job": "나이트로드",
+        "server": "Scania 3",
+        "power": "579조 3456억"
+      },
+      {
+        "rank": 129,
+        "nickname": "씨퍼",
+        "level": 105,
+        "job": "섀도어",
+        "server": "Scania 46",
+        "power": "577조 6210억"
+      },
+      {
+        "rank": 130,
+        "nickname": "록조",
+        "level": 106,
+        "job": "섀도어",
+        "server": "Scania 40",
+        "power": "566조 539억"
+      },
+      {
+        "rank": 131,
+        "nickname": "상합",
+        "level": 105,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 1",
+        "power": "554조 6123억"
+      },
+      {
+        "rank": 132,
+        "nickname": "취떡",
+        "level": 104,
+        "job": "나이트로드",
+        "server": "Scania 21",
+        "power": "552조 6721억"
+      },
+      {
+        "rank": 133,
+        "nickname": "나이트훈로드",
+        "level": 107,
+        "job": "나이트로드",
+        "server": "Scania 11",
+        "power": "550조 2927억"
+      },
+      {
+        "rank": 134,
+        "nickname": "지료",
+        "level": 106,
+        "job": "보우마스터",
+        "server": "Scania 17",
+        "power": "535조 7714억"
+      },
+      {
+        "rank": 135,
+        "nickname": "랑쥬",
+        "level": 106,
+        "job": "다크나이트",
+        "server": "Scania 19",
+        "power": "535조 7491억"
+      },
+      {
+        "rank": 136,
+        "nickname": "킹도리",
+        "level": 105,
+        "job": "히어로",
+        "server": "Scania 1",
+        "power": "532조 137억"
+      },
+      {
+        "rank": 137,
+        "nickname": "해창막걸리",
+        "level": 106,
+        "job": "히어로",
+        "server": "Scania 15",
+        "power": "527조 6603억"
+      },
+      {
+        "rank": 138,
+        "nickname": "영몬이",
+        "level": 104,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 49",
+        "power": "520조 7772억"
+      },
+      {
+        "rank": 139,
+        "nickname": "타락파워썬콜",
+        "level": 105,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 3",
+        "power": "513조 5886억"
+      },
+      {
+        "rank": 140,
+        "nickname": "윤자기",
+        "level": 107,
+        "job": "아크메이지(썬,콜)",
+        "server": "Scania 15",
+        "power": "512조 5644억"
+      },
+      {
+        "rank": 141,
+        "nickname": "꿀남",
+        "level": 104,
+        "job": "보우마스터",
+        "server": "Scania 54",
+        "power": "502조 6939억"
+      },
+      {
+        "rank": 142,
+        "nickname": "살포시",
+        "level": 104,
+        "job": "섀도어",
+        "server": "Scania 46",
+        "power": "496조 5614억"
+      },
+      {
+        "rank": 143,
+        "nickname": "안옴",
+        "level": 106,
+        "job": "나이트로드",
+        "server": "Scania 24",
+        "power": "487조 1027억"
+      },
+      {
+        "rank": 144,
+        "nickname": "로즈메리",
+        "level": 105,
+        "job": "아크메이지(불,독)",
+        "server": "Scania 17",
+        "power": "484조 395억"
+      },
+      {
+        "rank": 145,
+        "nickname": "뿌삐쨩",
+        "level": 105,
+        "job": "보우마스터",
+        "server": "Scania 6",
+        "power": "482조 3196억"
+      },
+      {
+        "rank": 146,
+        "nickname": "믹스커피도둑",
+        "level": 106,
+        "job": "나이트로드",
+        "server": "Scania 1",
+        "power": "480조 9266억"
+      },
+      {
+        "rank": 147,
+        "nickname": "설백초",
+        "level": 106,
+        "job": "아크메이지(불,독)",
+        "server": "Scania 39",
+        "power": "477조 2536억"
+      },
+      {
+        "rank": 148,
+        "nickname": "오또링",
+        "level": 107,
+        "job": "다크나이트",
+        "server": "Scania 30",
+        "power": "468조 2247억"
+      },
+      {
+        "rank": 149,
+        "nickname": "천류희",
+        "level": 105,
+        "job": "히어로",
+        "server": "Scania 39",
+        "power": "465조 8898억"
+      },
+      {
+        "rank": 150,
+        "nickname": "노골",
+        "level": 105,
+        "job": "섀도어",
+        "server": "Scania 1",
+        "power": "461조 8099억"
+      }
+    ]
+  },
+  "guilds": {
+    "total": 150,
+    "data": [
+      {
+        "rank": 1,
+        "name": "마늘",
+        "level": 8,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 10",
+        "power": "1경 3037조"
+      },
+      {
+        "rank": 2,
+        "name": "왕국",
+        "level": 8,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 2",
+        "power": "1경 2493조"
+      },
+      {
+        "rank": 3,
+        "name": "스타",
+        "level": 11,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 1",
+        "power": "1경 1936조"
+      },
+      {
+        "rank": 4,
+        "name": "소프트",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 16",
+        "power": "1경 1573조"
+      },
+      {
+        "rank": 5,
+        "name": "풍류",
+        "level": 8,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 6",
+        "power": "9655조 4180억"
+      },
+      {
+        "rank": 6,
+        "name": "기일드",
+        "level": 8,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 21",
+        "power": "9362조 8418억"
+      },
+      {
+        "rank": 7,
+        "name": "띠니",
+        "level": 7,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 56",
+        "power": "9051조 115억"
+      },
+      {
+        "rank": 8,
+        "name": "promise",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 34",
+        "power": "8355조 3017억"
+      },
+      {
+        "rank": 9,
+        "name": "다다",
+        "level": 8,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 19",
+        "power": "7966조 4277억"
+      },
+      {
+        "rank": 10,
+        "name": "넘버원",
+        "level": 8,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 13",
+        "power": "7254조 7381억"
+      },
+      {
+        "rank": 11,
+        "name": "사업",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 38",
+        "power": "7132조 7561억"
+      },
+      {
+        "rank": 12,
+        "name": "바하무트",
+        "level": 8,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 3",
+        "power": "7057조 9339억"
+      },
+      {
+        "rank": 13,
+        "name": "물범",
+        "level": 8,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 4",
+        "power": "6838조 4254억"
+      },
+      {
+        "rank": 14,
+        "name": "프린스",
+        "level": 8,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 5",
+        "power": "6751조 3854억"
+      },
+      {
+        "rank": 15,
+        "name": "반지",
+        "level": 9,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 7",
+        "power": "6294조 7597억"
+      },
+      {
+        "rank": 16,
+        "name": "쫄보",
+        "level": 7,
+        "members": 26,
+        "maxMembers": 30,
+        "server": "Scania 36",
+        "power": "5400조 4714억"
+      },
+      {
+        "rank": 17,
+        "name": "노란",
+        "level": 7,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 28",
+        "power": "4682조 9138억"
+      },
+      {
+        "rank": 18,
+        "name": "어벤저스",
+        "level": 7,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 24",
+        "power": "4531조 4742억"
+      },
+      {
+        "rank": 19,
+        "name": "오구프렌즈",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 27",
+        "power": "4301조 5094억"
+      },
+      {
+        "rank": 20,
+        "name": "레지스탕스",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 12",
+        "power": "4268조 8517억"
+      },
+      {
+        "rank": 21,
+        "name": "명상",
+        "level": 7,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 49",
+        "power": "4169조 3854억"
+      },
+      {
+        "rank": 22,
+        "name": "유희",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 18",
+        "power": "4086조 8483억"
+      },
+      {
+        "rank": 23,
+        "name": "KURO",
+        "level": 7,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 23",
+        "power": "3922조 7491억"
+      },
+      {
+        "rank": 24,
+        "name": "ADRANK",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 48",
+        "power": "3890조 7175억"
+      },
+      {
+        "rank": 25,
+        "name": "리마스터",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 43",
+        "power": "3803조 7471억"
+      },
+      {
+        "rank": 26,
+        "name": "덴찌",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 41",
+        "power": "3746조 718억"
+      },
+      {
+        "rank": 27,
+        "name": "몬스터그룹",
+        "level": 9,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 22",
+        "power": "3705조 8410억"
+      },
+      {
+        "rank": 28,
+        "name": "망망",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 52",
+        "power": "3615조 8091억"
+      },
+      {
+        "rank": 29,
+        "name": "용귀",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 30",
+        "power": "3570조 7523억"
+      },
+      {
+        "rank": 30,
+        "name": "리안",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 32",
+        "power": "3435조 4000억"
+      },
+      {
+        "rank": 31,
+        "name": "구미호",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 42",
+        "power": "3396조 479억"
+      },
+      {
+        "rank": 32,
+        "name": "흑관",
+        "level": 6,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 26",
+        "power": "3367조 2618억"
+      },
+      {
+        "rank": 33,
+        "name": "싸이월드",
+        "level": 9,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 31",
+        "power": "3249조 7396억"
+      },
+      {
+        "rank": 34,
+        "name": "라떼는말이야",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 25",
+        "power": "3226조 993억"
+      },
+      {
+        "rank": 35,
+        "name": "LUXURY",
+        "level": 7,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 46",
+        "power": "3218조 1445억"
+      },
+      {
+        "rank": 36,
+        "name": "고점",
+        "level": 8,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 41",
+        "power": "3073조 1106억"
+      },
+      {
+        "rank": 37,
+        "name": "친구들",
+        "level": 9,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 31",
+        "power": "2745조 7860억"
+      },
+      {
+        "rank": 38,
+        "name": "해몽",
+        "level": 8,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 17",
+        "power": "2663조 2009억"
+      },
+      {
+        "rank": 39,
+        "name": "명문",
+        "level": 8,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 14",
+        "power": "2587조 3748억"
+      },
+      {
+        "rank": 40,
+        "name": "XXXXXXX",
+        "level": 7,
+        "members": 28,
+        "maxMembers": 30,
+        "server": "Scania 37",
+        "power": "2582조 1317억"
+      },
+      {
+        "rank": 41,
+        "name": "강한사람들",
+        "level": 7,
+        "members": 28,
+        "maxMembers": 30,
+        "server": "Scania 25",
+        "power": "2528조 537억"
+      },
+      {
+        "rank": 42,
+        "name": "예티",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 47",
+        "power": "2521조 6488억"
+      },
+      {
+        "rank": 43,
+        "name": "오토",
+        "level": 8,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 1",
+        "power": "2505조 5708억"
+      },
+      {
+        "rank": 44,
+        "name": "격살",
+        "level": 8,
+        "members": 28,
+        "maxMembers": 30,
+        "server": "Scania 9",
+        "power": "2489조 6111억"
+      },
+      {
+        "rank": 45,
+        "name": "사시",
+        "level": 7,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 48",
+        "power": "2327조 1296억"
+      },
+      {
+        "rank": 46,
+        "name": "오비탈",
+        "level": 6,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 50",
+        "power": "2242조 6285억"
+      },
+      {
+        "rank": 47,
+        "name": "유설",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 52",
+        "power": "2205조 7395억"
+      },
+      {
+        "rank": 48,
+        "name": "반짝",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 11",
+        "power": "2128조 2136억"
+      },
+      {
+        "rank": 49,
+        "name": "홍령",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 35",
+        "power": "2110조 5050억"
+      },
+      {
+        "rank": 50,
+        "name": "그랜드",
+        "level": 7,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 33",
+        "power": "2057조 8964억"
+      },
+      {
+        "rank": 51,
+        "name": "비글",
+        "level": 6,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 57",
+        "power": "1980조 3473억"
+      },
+      {
+        "rank": 52,
+        "name": "결사단",
+        "level": 7,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 30",
+        "power": "1962조 7348억"
+      },
+      {
+        "rank": 53,
+        "name": "에버모어",
+        "level": 8,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 20",
+        "power": "1908조 1413억"
+      },
+      {
+        "rank": 54,
+        "name": "음주가무",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 29",
+        "power": "1906조 9703억"
+      },
+      {
+        "rank": 55,
+        "name": "달인",
+        "level": 8,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 15",
+        "power": "1818조 1429억"
+      },
+      {
+        "rank": 56,
+        "name": "짜요짜요",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 35",
+        "power": "1808조 2602억"
+      },
+      {
+        "rank": 57,
+        "name": "노답이",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 13",
+        "power": "1778조 652억"
+      },
+      {
+        "rank": 58,
+        "name": "독식",
+        "level": 6,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 39",
+        "power": "1771조 7884억"
+      },
+      {
+        "rank": 59,
+        "name": "히안",
+        "level": 7,
+        "members": 28,
+        "maxMembers": 30,
+        "server": "Scania 36",
+        "power": "1617조 6673억"
+      },
+      {
+        "rank": 60,
+        "name": "블루비틀",
+        "level": 7,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 11",
+        "power": "1583조 1339억"
+      },
+      {
+        "rank": 61,
+        "name": "Wild",
+        "level": 6,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 45",
+        "power": "1524조 857억"
+      },
+      {
+        "rank": 62,
+        "name": "여명",
+        "level": 8,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 3",
+        "power": "1509조 3364억"
+      },
+      {
+        "rank": 63,
+        "name": "일식",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 32",
+        "power": "1464조 3213억"
+      },
+      {
+        "rank": 64,
+        "name": "청린",
+        "level": 6,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 54",
+        "power": "1218조 8425억"
+      },
+      {
+        "rank": 65,
+        "name": "딸기지갑단",
+        "level": 8,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 19",
+        "power": "1206조 2173억"
+      },
+      {
+        "rank": 66,
+        "name": "은하",
+        "level": 8,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 1",
+        "power": "1099조 9445억"
+      },
+      {
+        "rank": 67,
+        "name": "적야",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 40",
+        "power": "1082조 2106억"
+      },
+      {
+        "rank": 68,
+        "name": "오벤",
+        "level": 6,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 53",
+        "power": "1077조 218억"
+      },
+      {
+        "rank": 69,
+        "name": "오한",
+        "level": 6,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 51",
+        "power": "994조 1832억"
+      },
+      {
+        "rank": 70,
+        "name": "라비드",
+        "level": 7,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 23",
+        "power": "900조 6653억"
+      },
+      {
+        "rank": 71,
+        "name": "유랑",
+        "level": 8,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 17",
+        "power": "889조 8701억"
+      },
+      {
+        "rank": 72,
+        "name": "포옹",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 26",
+        "power": "879조 6681억"
+      },
+      {
+        "rank": 73,
+        "name": "겐조",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 55",
+        "power": "878조 5884억"
+      },
+      {
+        "rank": 74,
+        "name": "점프킹",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 15",
+        "power": "797조 9199억"
+      },
+      {
+        "rank": 75,
+        "name": "미소",
+        "level": 8,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 6",
+        "power": "795조 118억"
+      },
+      {
+        "rank": 76,
+        "name": "티아이",
+        "level": 6,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 44",
+        "power": "759조 4475억"
+      },
+      {
+        "rank": 77,
+        "name": "냠냠냠",
+        "level": 6,
+        "members": 28,
+        "maxMembers": 30,
+        "server": "Scania 66",
+        "power": "757조 3034억"
+      },
+      {
+        "rank": 78,
+        "name": "칙촉",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 14",
+        "power": "684조 3157억"
+      },
+      {
+        "rank": 79,
+        "name": "뵤뵤",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 26",
+        "power": "682조 879억"
+      },
+      {
+        "rank": 80,
+        "name": "적안",
+        "level": 7,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 27",
+        "power": "680조 737억"
+      },
+      {
+        "rank": 81,
+        "name": "전력",
+        "level": 6,
+        "members": 28,
+        "maxMembers": 30,
+        "server": "Scania 18",
+        "power": "677조 8307억"
+      },
+      {
+        "rank": 82,
+        "name": "게임즈",
+        "level": 8,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 3",
+        "power": "652조 5439억"
+      },
+      {
+        "rank": 83,
+        "name": "Record",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 40",
+        "power": "650조 4653억"
+      },
+      {
+        "rank": 84,
+        "name": "정상",
+        "level": 9,
+        "members": 24,
+        "maxMembers": 30,
+        "server": "Scania 1",
+        "power": "635조 9244억"
+      },
+      {
+        "rank": 85,
+        "name": "예수님",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 2",
+        "power": "619조 3614억"
+      },
+      {
+        "rank": 86,
+        "name": "델타스트림",
+        "level": 6,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 42",
+        "power": "614조 2959억"
+      },
+      {
+        "rank": 87,
+        "name": "빠따",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 35",
+        "power": "612조 7723억"
+      },
+      {
+        "rank": 88,
+        "name": "도약",
+        "level": 7,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 5",
+        "power": "575조 6610억"
+      },
+      {
+        "rank": 89,
+        "name": "Pooky",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 10",
+        "power": "568조 5618억"
+      },
+      {
+        "rank": 90,
+        "name": "강아지모여라",
+        "level": 8,
+        "members": 23,
+        "maxMembers": 30,
+        "server": "Scania 14",
+        "power": "531조 5373억"
+      },
+      {
+        "rank": 91,
+        "name": "카산드라",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 11",
+        "power": "530조 4772억"
+      },
+      {
+        "rank": 92,
+        "name": "약혼",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 47",
+        "power": "528조 6377억"
+      },
+      {
+        "rank": 93,
+        "name": "프뉴마",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 28",
+        "power": "523조 9429억"
+      },
+      {
+        "rank": 94,
+        "name": "연화",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 2",
+        "power": "507조 6554억"
+      },
+      {
+        "rank": 95,
+        "name": "일촌",
+        "level": 8,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 3",
+        "power": "507조 2981억"
+      },
+      {
+        "rank": 96,
+        "name": "프리실라",
+        "level": 8,
+        "members": 28,
+        "maxMembers": 30,
+        "server": "Scania 40",
+        "power": "498조 5122억"
+      },
+      {
+        "rank": 97,
+        "name": "달콩",
+        "level": 8,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 11",
+        "power": "483조 1831억"
+      },
+      {
+        "rank": 98,
+        "name": "정령",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 7",
+        "power": "424조 6127억"
+      },
+      {
+        "rank": 99,
+        "name": "공이",
+        "level": 7,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 49",
+        "power": "407조 1822억"
+      },
+      {
+        "rank": 100,
+        "name": "피치블라썸",
+        "level": 6,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 53",
+        "power": "406조 9806억"
+      },
+      {
+        "rank": 101,
+        "name": "욕망",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 1",
+        "power": "403조 9956억"
+      },
+      {
+        "rank": 102,
+        "name": "백향",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 33",
+        "power": "401조 7963억"
+      },
+      {
+        "rank": 103,
+        "name": "동방",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 44",
+        "power": "399조 5235억"
+      },
+      {
+        "rank": 104,
+        "name": "맑토리",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 26",
+        "power": "399조 1458억"
+      },
+      {
+        "rank": 105,
+        "name": "LOVELY",
+        "level": 8,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 12",
+        "power": "381조 3억"
+      },
+      {
+        "rank": 106,
+        "name": "니면상",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 45",
+        "power": "364조 5864억"
+      },
+      {
+        "rank": 107,
+        "name": "승찬",
+        "level": 6,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 1",
+        "power": "358조 8031억"
+      },
+      {
+        "rank": 108,
+        "name": "온랑",
+        "level": 8,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 9",
+        "power": "350조 421억"
+      },
+      {
+        "rank": 109,
+        "name": "공인",
+        "level": 7,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 16",
+        "power": "347조 2998억"
+      },
+      {
+        "rank": 110,
+        "name": "TRIES",
+        "level": 6,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 47",
+        "power": "342조 2729억"
+      },
+      {
+        "rank": 111,
+        "name": "메타",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 20",
+        "power": "337조 9126억"
+      },
+      {
+        "rank": 112,
+        "name": "유니크",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 1",
+        "power": "337조 4726억"
+      },
+      {
+        "rank": 113,
+        "name": "탑텐",
+        "level": 6,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 61",
+        "power": "333조 3311억"
+      },
+      {
+        "rank": 114,
+        "name": "냐옹이",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 13",
+        "power": "332조 4921억"
+      },
+      {
+        "rank": 115,
+        "name": "별하나달하나",
+        "level": 6,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 39",
+        "power": "330조 4104억"
+      },
+      {
+        "rank": 116,
+        "name": "따또",
+        "level": 6,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 34",
+        "power": "324조 4393억"
+      },
+      {
+        "rank": 117,
+        "name": "헤라",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 17",
+        "power": "314조 2041억"
+      },
+      {
+        "rank": 118,
+        "name": "뒷담",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 16",
+        "power": "307조 3830억"
+      },
+      {
+        "rank": 119,
+        "name": "블루베리",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 15",
+        "power": "302조 4431억"
+      },
+      {
+        "rank": 120,
+        "name": "데이트",
+        "level": 6,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 50",
+        "power": "299조 8134억"
+      },
+      {
+        "rank": 121,
+        "name": "쌈닭",
+        "level": 6,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 42",
+        "power": "299조 1806억"
+      },
+      {
+        "rank": 122,
+        "name": "HERMES",
+        "level": 8,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 8",
+        "power": "291조 737억"
+      },
+      {
+        "rank": 123,
+        "name": "더퍼스트",
+        "level": 6,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 58",
+        "power": "284조 6820억"
+      },
+      {
+        "rank": 124,
+        "name": "교차",
+        "level": 5,
+        "members": 28,
+        "maxMembers": 28,
+        "server": "Scania 62",
+        "power": "284조 3917억"
+      },
+      {
+        "rank": 125,
+        "name": "백서",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 15",
+        "power": "280조 3114억"
+      },
+      {
+        "rank": 126,
+        "name": "야가다",
+        "level": 6,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 23",
+        "power": "272조 7976억"
+      },
+      {
+        "rank": 127,
+        "name": "건국",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 24",
+        "power": "265조 13억"
+      },
+      {
+        "rank": 128,
+        "name": "소곤",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 34",
+        "power": "262조 4111억"
+      },
+      {
+        "rank": 129,
+        "name": "빅보스",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 2",
+        "power": "253조 2789억"
+      },
+      {
+        "rank": 130,
+        "name": "호러",
+        "level": 6,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 28",
+        "power": "253조 620억"
+      },
+      {
+        "rank": 131,
+        "name": "가구베",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 3",
+        "power": "250조 4876억"
+      },
+      {
+        "rank": 132,
+        "name": "한계",
+        "level": 6,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 24",
+        "power": "249조 8205억"
+      },
+      {
+        "rank": 133,
+        "name": "채팅",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 20",
+        "power": "248조 5320억"
+      },
+      {
+        "rank": 134,
+        "name": "토마토",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 14",
+        "power": "246조 4366억"
+      },
+      {
+        "rank": 135,
+        "name": "소통",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 40",
+        "power": "238조 6363억"
+      },
+      {
+        "rank": 136,
+        "name": "열화",
+        "level": 6,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 60",
+        "power": "237조 8505억"
+      },
+      {
+        "rank": 137,
+        "name": "흑색",
+        "level": 6,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 56",
+        "power": "232조 3592억"
+      },
+      {
+        "rank": 138,
+        "name": "느낌",
+        "level": 7,
+        "members": 25,
+        "maxMembers": 30,
+        "server": "Scania 9",
+        "power": "218조 1244억"
+      },
+      {
+        "rank": 139,
+        "name": "바닐라",
+        "level": 8,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 7",
+        "power": "217조 3965억"
+      },
+      {
+        "rank": 140,
+        "name": "외계인",
+        "level": 7,
+        "members": 24,
+        "maxMembers": 30,
+        "server": "Scania 1",
+        "power": "216조 2993억"
+      },
+      {
+        "rank": 141,
+        "name": "콩콩",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 4",
+        "power": "212조 907억"
+      },
+      {
+        "rank": 142,
+        "name": "농민협동조합",
+        "level": 6,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 59",
+        "power": "209조 5128억"
+      },
+      {
+        "rank": 143,
+        "name": "뽀송",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 7",
+        "power": "207조 7972억"
+      },
+      {
+        "rank": 144,
+        "name": "존스",
+        "level": 7,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 23",
+        "power": "202조 3067억"
+      },
+      {
+        "rank": 145,
+        "name": "향해",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 24",
+        "power": "201조 3274억"
+      },
+      {
+        "rank": 146,
+        "name": "낙오",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 2",
+        "power": "191조 8270억"
+      },
+      {
+        "rank": 147,
+        "name": "반역",
+        "level": 7,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 22",
+        "power": "190조 7730억"
+      },
+      {
+        "rank": 148,
+        "name": "미개",
+        "level": 7,
+        "members": 26,
+        "maxMembers": 30,
+        "server": "Scania 18",
+        "power": "189조 9407억"
+      },
+      {
+        "rank": 149,
+        "name": "야옹쓰",
+        "level": 6,
+        "members": 29,
+        "maxMembers": 30,
+        "server": "Scania 58",
+        "power": "189조 9345억"
+      },
+      {
+        "rank": 150,
+        "name": "바할라",
+        "level": 7,
+        "members": 30,
+        "maxMembers": 30,
+        "server": "Scania 36",
+        "power": "185조 2033억"
+      }
+    ]
+  }
+}
