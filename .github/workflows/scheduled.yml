@@ -1,0 +1,26 @@
+name: scheduled
+
+on:
+  schedule:
+    - cron: '0 1,5,9,15,21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install playwright && npx playwright install chromium
+      - run: node task.js
+      - run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "bot"
+          git add .
+          git diff --staged --quiet || git commit -m "update"
+          git push
