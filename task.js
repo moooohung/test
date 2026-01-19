@@ -11,8 +11,8 @@ const https = require('https');
 
 const PLAYER_URL = 'https://mgf.gg/ranking';
 const GUILD_URL = 'https://mgf.gg/ranking/guild_ranking.php';
-const MAX_PLAYER_PAGES = 5;   // 테스트용 5페이지 (실제 배포시 200으로)
-const MAX_GUILD_PAGES = 5;    // 테스트용 5페이지 (실제 배포시 500으로)
+const MAX_PLAYER_PAGES = 200;  // 전체 플레이어 (약 6000명)
+const MAX_GUILD_PAGES = 500;   // 전체 길드
 
 // 직업별 아이콘 매핑
 const JOB_ICONS = {
