@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-11T16:03:55.281Z",
+  "updated_at": "2026-02-11T21:35:35.720Z",
   "players": {
     "total": 300,
     "data": [
@@ -561,7 +561,7 @@
         "level": 108,
         "job": "",
         "server": "Scania 66",
-        "power": "2229조 1792억\n02.11 기준"
+        "power": "2229조 1792억\n02.12 기준"
       },
       {
         "rank": 71,
@@ -1081,7 +1081,7 @@
         "level": 104,
         "job": "",
         "server": "Scania 66",
-        "power": "1094조 3659억\n02.11 기준"
+        "power": "1094조 3659억\n02.12 기준"
       },
       {
         "rank": 136,
@@ -2649,7 +2649,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 66",
-        "power": "3704조 3523억"
+        "power": "3617조 9680억"
       },
       {
         "rank": 28,
@@ -3486,7 +3486,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 67",
-        "power": "350조 4891억"
+        "power": "349조 9790억"
       },
       {
         "rank": 121,
@@ -3540,7 +3540,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 80",
-        "power": "312조 459억"
+        "power": "312조 3970억"
       },
       {
         "rank": 127,
@@ -3657,7 +3657,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 81",
-        "power": "265조 3429억"
+        "power": "264조 4487억"
       },
       {
         "rank": 140,
@@ -3666,7 +3666,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 79",
-        "power": "262조 4945억"
+        "power": "264조 1145억"
       },
       {
         "rank": 141,
