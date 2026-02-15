@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-15T05:57:29.663Z",
+  "updated_at": "2026-02-15T09:33:49.874Z",
   "players": {
     "total": 300,
     "data": [
@@ -25,7 +25,7 @@
         "level": 112,
         "job": "",
         "server": "Scania 56",
-        "power": "2경 1586조\n02.14 기준"
+        "power": "2경 1586조\n02.15 기준"
       },
       {
         "rank": 4,
@@ -217,7 +217,7 @@
         "level": 109,
         "job": "",
         "server": "Scania 52",
-        "power": "4278조 4159억\n02.14 기준"
+        "power": "4278조 4159억\n02.15 기준"
       },
       {
         "rank": 28,
@@ -425,7 +425,7 @@
         "level": 109,
         "job": "",
         "server": "Scania 57",
-        "power": "2733조 285억\n02.14 기준"
+        "power": "2733조 285억\n02.15 기준"
       },
       {
         "rank": 54,
@@ -457,7 +457,7 @@
         "level": 109,
         "job": "",
         "server": "Scania 56",
-        "power": "2685조 9090억\n02.14 기준"
+        "power": "2685조 9090억\n02.15 기준"
       },
       {
         "rank": 58,
@@ -889,7 +889,7 @@
         "level": 107,
         "job": "",
         "server": "Scania 56",
-        "power": "1428조 351억\n02.14 기준"
+        "power": "1428조 351억\n02.15 기준"
       },
       {
         "rank": 112,
@@ -969,7 +969,7 @@
         "level": 108,
         "job": "",
         "server": "Scania 53",
-        "power": "1310조 4696억\n02.14 기준"
+        "power": "1310조 4696억\n02.15 기준"
       },
       {
         "rank": 122,
@@ -1073,7 +1073,7 @@
         "level": 108,
         "job": "",
         "server": "Scania 52",
-        "power": "1165조 7883억\n02.14 기준"
+        "power": "1165조 7883억\n02.15 기준"
       },
       {
         "rank": 135,
@@ -1089,7 +1089,7 @@
         "level": 107,
         "job": "",
         "server": "Scania 57",
-        "power": "1151조 4312억\n02.14 기준"
+        "power": "1151조 4312억\n02.15 기준"
       },
       {
         "rank": 137,
@@ -1209,7 +1209,7 @@
         "level": 107,
         "job": "",
         "server": "Scania 57",
-        "power": "945조 8872억\n02.14 기준"
+        "power": "945조 8872억\n02.15 기준"
       },
       {
         "rank": 152,
@@ -1265,7 +1265,7 @@
         "level": 107,
         "job": "",
         "server": "Scania 55",
-        "power": "892조 4343억\n02.14 기준"
+        "power": "892조 4343억\n02.15 기준"
       },
       {
         "rank": 159,
@@ -1305,7 +1305,7 @@
         "level": 107,
         "job": "",
         "server": "Scania 51",
-        "power": "856조 6175억\n02.14 기준"
+        "power": "856조 6175억\n02.15 기준"
       },
       {
         "rank": 164,
@@ -1358,7 +1358,7 @@
       {
         "rank": 170,
         "nickname": "타락파워썬콜",
-        "level": 107,
+        "level": 108,
         "job": "",
         "server": "Scania 3",
         "power": "811조 776억\n02.15 기준"
@@ -1537,7 +1537,7 @@
         "level": 106,
         "job": "",
         "server": "Scania 54",
-        "power": "696조 2610억\n02.14 기준"
+        "power": "696조 2610억\n02.15 기준"
       },
       {
         "rank": 193,
@@ -1745,7 +1745,7 @@
         "level": 106,
         "job": "",
         "server": "Scania 52",
-        "power": "557조 6338억\n02.14 기준"
+        "power": "557조 6338억\n02.15 기준"
       },
       {
         "rank": 219,
@@ -1817,7 +1817,7 @@
         "level": 105,
         "job": "",
         "server": "Scania 56",
-        "power": "534조 5125억\n02.14 기준"
+        "power": "534조 5125억\n02.15 기준"
       },
       {
         "rank": 228,
@@ -1945,7 +1945,7 @@
         "level": 104,
         "job": "",
         "server": "Scania 58",
-        "power": "508조 735억\n02.14 기준"
+        "power": "508조 735억\n02.15 기준"
       },
       {
         "rank": 244,
@@ -1985,7 +1985,7 @@
         "level": 105,
         "job": "",
         "server": "Scania 55",
-        "power": "495조 4688억\n02.14 기준"
+        "power": "495조 4688억\n02.15 기준"
       },
       {
         "rank": 249,
@@ -2089,7 +2089,7 @@
         "level": 105,
         "job": "",
         "server": "Scania 53",
-        "power": "465조 8945억\n02.14 기준"
+        "power": "465조 8945억\n02.15 기준"
       },
       {
         "rank": 262,
@@ -2129,7 +2129,7 @@
         "level": 105,
         "job": "",
         "server": "Scania 51",
-        "power": "456조 6796억\n02.14 기준"
+        "power": "456조 6796억\n02.15 기준"
       },
       {
         "rank": 267,
@@ -2505,7 +2505,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 3",
-        "power": "6729조 1581억"
+        "power": "6739조 2488억"
       },
       {
         "rank": 12,
@@ -2532,7 +2532,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 66",
-        "power": "5687조 9123억"
+        "power": "5688조 511억"
       },
       {
         "rank": 15,
@@ -2568,7 +2568,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 6",
-        "power": "4566조 1374억"
+        "power": "4566조 5131억"
       },
       {
         "rank": 19,
@@ -2640,7 +2640,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 15",
-        "power": "2776조 3231억"
+        "power": "2777조 787억"
       },
       {
         "rank": 27,
@@ -2649,7 +2649,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 32",
-        "power": "2733조 5663억"
+        "power": "2733조 5695억"
       },
       {
         "rank": 28,
@@ -2658,7 +2658,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 21",
-        "power": "2590조 3678억"
+        "power": "2590조 7283억"
       },
       {
         "rank": 29,
@@ -2667,7 +2667,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 11",
-        "power": "2589조 4968억"
+        "power": "2589조 4979억"
       },
       {
         "rank": 30,
@@ -2703,7 +2703,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 1",
-        "power": "2435조 9901억"
+        "power": "2439조 1584억"
       },
       {
         "rank": 34,
@@ -2712,7 +2712,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 12",
-        "power": "2435조 5405억"
+        "power": "2435조 6503억"
       },
       {
         "rank": 35,
@@ -2721,7 +2721,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 37",
-        "power": "2332조 4629억"
+        "power": "2332조 4704억"
       },
       {
         "rank": 36,
@@ -2739,7 +2739,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 14",
-        "power": "2131조 1271억"
+        "power": "2131조 2724억"
       },
       {
         "rank": 38,
@@ -2752,15 +2752,6 @@
       },
       {
         "rank": 39,
-        "name": "유설",
-        "level": 8,
-        "members": 0,
-        "maxMembers": 30,
-        "server": "Scania 52",
-        "power": "2050조 1727억"
-      },
-      {
-        "rank": 40,
         "name": "티아이",
         "level": 7,
         "members": 0,
@@ -2769,13 +2760,22 @@
         "power": "2048조 5177억"
       },
       {
-        "rank": 41,
+        "rank": 40,
         "name": "히안",
         "level": 7,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 36",
         "power": "1966조 4416억"
+      },
+      {
+        "rank": 41,
+        "name": "유설",
+        "level": 8,
+        "members": 0,
+        "maxMembers": 30,
+        "server": "Scania 52",
+        "power": "1964조 4303억"
       },
       {
         "rank": 42,
@@ -2802,7 +2802,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 14",
-        "power": "1828조 3909억"
+        "power": "1828조 5013억"
       },
       {
         "rank": 45,
@@ -2829,7 +2829,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 17",
-        "power": "1680조 4833억"
+        "power": "1683조 450억"
       },
       {
         "rank": 48,
@@ -2856,7 +2856,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 5",
-        "power": "1511조 954억"
+        "power": "1511조 8883억"
       },
       {
         "rank": 51,
@@ -2865,7 +2865,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 14",
-        "power": "1441조 2989억"
+        "power": "1441조 4868억"
       },
       {
         "rank": 52,
@@ -2874,7 +2874,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 49",
-        "power": "1341조 4857억"
+        "power": "1341조 4855억"
       },
       {
         "rank": 53,
@@ -2937,7 +2937,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 80",
-        "power": "913조 7775억"
+        "power": "919조 36억"
       },
       {
         "rank": 60,
@@ -2964,7 +2964,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 18",
-        "power": "845조 9296억"
+        "power": "845조 9310억"
       },
       {
         "rank": 63,
@@ -2977,21 +2977,21 @@
       },
       {
         "rank": 64,
+        "name": "오한",
+        "level": 7,
+        "members": 0,
+        "maxMembers": 30,
+        "server": "Scania 51",
+        "power": "797조 3022억"
+      },
+      {
+        "rank": 65,
         "name": "니면상",
         "level": 8,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 45",
         "power": "793조 1299억"
-      },
-      {
-        "rank": 65,
-        "name": "오한",
-        "level": 7,
-        "members": 0,
-        "maxMembers": 30,
-        "server": "Scania 51",
-        "power": "791조 3717억"
       },
       {
         "rank": 66,
@@ -3054,7 +3054,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 34",
-        "power": "677조 1090억"
+        "power": "677조 1121억"
       },
       {
         "rank": 73,
@@ -3072,7 +3072,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 81",
-        "power": "658조 362억"
+        "power": "664조 7285억"
       },
       {
         "rank": 75,
@@ -3108,7 +3108,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 6",
-        "power": "601조 2294억"
+        "power": "601조 2639억"
       },
       {
         "rank": 79,
@@ -3126,7 +3126,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 82",
-        "power": "594조 1351억"
+        "power": "594조 3879억"
       },
       {
         "rank": 81,
@@ -3171,7 +3171,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 11",
-        "power": "549조 6595억"
+        "power": "549조 6764억"
       },
       {
         "rank": 86,
@@ -3180,7 +3180,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 16",
-        "power": "546조 4096억"
+        "power": "546조 4156억"
       },
       {
         "rank": 87,
@@ -3189,7 +3189,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 20",
-        "power": "528조 4349억"
+        "power": "528조 5204억"
       },
       {
         "rank": 88,
@@ -3198,7 +3198,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 9",
-        "power": "521조 4348억"
+        "power": "521조 9618억"
       },
       {
         "rank": 89,
@@ -3225,7 +3225,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 5",
-        "power": "475조 2299억"
+        "power": "475조 2302억"
       },
       {
         "rank": 92,
@@ -3243,7 +3243,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 10",
-        "power": "456조 6470억"
+        "power": "456조 6602억"
       },
       {
         "rank": 94,
@@ -3279,7 +3279,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 2",
-        "power": "435조 1376억"
+        "power": "435조 2394억"
       },
       {
         "rank": 98,
@@ -3288,7 +3288,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 18",
-        "power": "421조 2633억"
+        "power": "421조 2699억"
       },
       {
         "rank": 99,
@@ -3342,16 +3342,16 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 1",
-        "power": "397조 3284억"
+        "power": "398조 5814억"
       },
       {
         "rank": 105,
         "name": "나침반",
-        "level": 6,
+        "level": 7,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 13",
-        "power": "395조 1893억"
+        "power": "395조 4932억"
       },
       {
         "rank": 106,
@@ -3360,7 +3360,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 54",
-        "power": "379조 9140억"
+        "power": "379조 9328억"
       },
       {
         "rank": 107,
@@ -3396,7 +3396,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 10",
-        "power": "338조 9633억"
+        "power": "339조 315억"
       },
       {
         "rank": 111,
@@ -3405,7 +3405,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 37",
-        "power": "335조 9256억"
+        "power": "335조 9300억"
       },
       {
         "rank": 112,
@@ -3414,7 +3414,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 7",
-        "power": "327조 3711억"
+        "power": "327조 6185억"
       },
       {
         "rank": 113,
@@ -3423,7 +3423,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 9",
-        "power": "325조 1058억"
+        "power": "325조 1756억"
       },
       {
         "rank": 114,
@@ -3459,7 +3459,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 11",
-        "power": "308조 6633억"
+        "power": "308조 9482억"
       },
       {
         "rank": 118,
@@ -3468,7 +3468,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 57",
-        "power": "306조 8258억"
+        "power": "306조 8354억"
       },
       {
         "rank": 119,
@@ -3495,7 +3495,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 9",
-        "power": "283조 1244억"
+        "power": "284조 5542억"
       },
       {
         "rank": 122,
@@ -3504,7 +3504,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 56",
-        "power": "279조 8233억"
+        "power": "279조 8237억"
       },
       {
         "rank": 123,
@@ -3513,7 +3513,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 79",
-        "power": "275조 3087억"
+        "power": "277조 2679억"
       },
       {
         "rank": 124,
@@ -3540,10 +3540,19 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 58",
-        "power": "269조 1970억"
+        "power": "269조 3007억"
       },
       {
         "rank": 127,
+        "name": "왕국",
+        "level": 8,
+        "members": 0,
+        "maxMembers": 30,
+        "server": "Scania 2",
+        "power": "259조 9695억"
+      },
+      {
+        "rank": 128,
         "name": "무중력",
         "level": 6,
         "members": 0,
@@ -3552,22 +3561,13 @@
         "power": "259조 7242억"
       },
       {
-        "rank": 128,
-        "name": "왕국",
-        "level": 8,
-        "members": 0,
-        "maxMembers": 30,
-        "server": "Scania 2",
-        "power": "250조 7867억"
-      },
-      {
         "rank": 129,
         "name": "초련",
         "level": 7,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 52",
-        "power": "250조 2664억"
+        "power": "251조 2342억"
       },
       {
         "rank": 130,
@@ -3576,7 +3576,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 37",
-        "power": "240조 6475억"
+        "power": "240조 7095억"
       },
       {
         "rank": 131,
@@ -3621,7 +3621,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 14",
-        "power": "228조 1392억"
+        "power": "228조 2356억"
       },
       {
         "rank": 136,
@@ -3630,7 +3630,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 31",
-        "power": "227조 8690억"
+        "power": "227조 9997억"
       },
       {
         "rank": 137,
@@ -3657,7 +3657,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 18",
-        "power": "222조 2688억"
+        "power": "222조 3366억"
       },
       {
         "rank": 140,
@@ -3684,7 +3684,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 38",
-        "power": "214조 6916억"
+        "power": "215조 5335억"
       },
       {
         "rank": 143,
@@ -3693,7 +3693,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 81",
-        "power": "211조 9063억"
+        "power": "213조 6747억"
       },
       {
         "rank": 144,
@@ -3702,7 +3702,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 10",
-        "power": "210조 7748억"
+        "power": "210조 7780억"
       },
       {
         "rank": 145,
@@ -3720,7 +3720,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 78",
-        "power": "207조 4499억"
+        "power": "207조 7881억"
       },
       {
         "rank": 147,
@@ -3729,7 +3729,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 18",
-        "power": "206조 5190억"
+        "power": "206조 8604억"
       },
       {
         "rank": 148,
@@ -3747,7 +3747,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 4",
-        "power": "204조 3439억"
+        "power": "204조 3586억"
       },
       {
         "rank": 150,
@@ -3756,7 +3756,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 20",
-        "power": "199조 3278억"
+        "power": "203조 4416억"
       }
     ]
   }
