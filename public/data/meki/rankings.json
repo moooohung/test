@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-17T03:36:13.624Z",
+  "updated_at": "2026-02-17T05:58:02.741Z",
   "players": {
     "total": 300,
     "data": [
@@ -1221,6 +1221,14 @@
       },
       {
         "rank": 153,
+        "nickname": "RaonV",
+        "level": 104,
+        "job": "",
+        "server": "Scania 80",
+        "power": "926조 3032억\n02.17 기준"
+      },
+      {
+        "rank": 154,
         "nickname": "개복칭",
         "level": 108,
         "job": "",
@@ -1228,7 +1236,7 @@
         "power": "925조 6407억\n02.17 기준"
       },
       {
-        "rank": 154,
+        "rank": 155,
         "nickname": "파섹",
         "level": 107,
         "job": "",
@@ -1236,7 +1244,7 @@
         "power": "924조 6594억\n02.17 기준"
       },
       {
-        "rank": 155,
+        "rank": 156,
         "nickname": "요밋이",
         "level": 107,
         "job": "",
@@ -1244,7 +1252,7 @@
         "power": "918조 5373억\n02.17 기준"
       },
       {
-        "rank": 156,
+        "rank": 157,
         "nickname": "참눼",
         "level": 106,
         "job": "",
@@ -1252,7 +1260,7 @@
         "power": "908조 7271억\n02.17 기준"
       },
       {
-        "rank": 157,
+        "rank": 158,
         "nickname": "짱아장군",
         "level": 107,
         "job": "",
@@ -1260,7 +1268,7 @@
         "power": "894조 3934억\n02.17 기준"
       },
       {
-        "rank": 158,
+        "rank": 159,
         "nickname": "깨비o",
         "level": 107,
         "job": "",
@@ -1268,7 +1276,7 @@
         "power": "892조 4343억\n02.17 기준"
       },
       {
-        "rank": 159,
+        "rank": 160,
         "nickname": "썬더명문",
         "level": 107,
         "job": "",
@@ -1276,7 +1284,7 @@
         "power": "872조 3957억\n02.17 기준"
       },
       {
-        "rank": 160,
+        "rank": 161,
         "nickname": "우희",
         "level": 107,
         "job": "",
@@ -1284,7 +1292,7 @@
         "power": "866조 8315억\n02.17 기준"
       },
       {
-        "rank": 161,
+        "rank": 162,
         "nickname": "백쫑",
         "level": 107,
         "job": "",
@@ -1292,7 +1300,7 @@
         "power": "861조 5444억\n02.17 기준"
       },
       {
-        "rank": 162,
+        "rank": 163,
         "nickname": "오또링",
         "level": 108,
         "job": "",
@@ -1300,7 +1308,7 @@
         "power": "859조 7462억\n02.17 기준"
       },
       {
-        "rank": 163,
+        "rank": 164,
         "nickname": "스테이시1",
         "level": 107,
         "job": "",
@@ -1308,7 +1316,7 @@
         "power": "856조 6175억\n02.17 기준"
       },
       {
-        "rank": 164,
+        "rank": 165,
         "nickname": "지딤",
         "level": 107,
         "job": "",
@@ -1316,7 +1324,7 @@
         "power": "855조 7242억\n02.17 기준"
       },
       {
-        "rank": 165,
+        "rank": 166,
         "nickname": "칭구들",
         "level": 107,
         "job": "",
@@ -1324,7 +1332,7 @@
         "power": "855조 638억\n02.17 기준"
       },
       {
-        "rank": 166,
+        "rank": 167,
         "nickname": "상합",
         "level": 107,
         "job": "",
@@ -1332,7 +1340,7 @@
         "power": "841조 7965억\n02.17 기준"
       },
       {
-        "rank": 167,
+        "rank": 168,
         "nickname": "낙찡",
         "level": 107,
         "job": "",
@@ -1340,7 +1348,7 @@
         "power": "840조 3755억\n02.17 기준"
       },
       {
-        "rank": 168,
+        "rank": 169,
         "nickname": "빌쌔",
         "level": 106,
         "job": "",
@@ -1348,20 +1356,12 @@
         "power": "832조 6317억\n02.17 기준"
       },
       {
-        "rank": 169,
+        "rank": 170,
         "nickname": "버어억",
         "level": 107,
         "job": "",
         "server": "Scania 3",
         "power": "829조 8996억\n02.17 기준"
-      },
-      {
-        "rank": 170,
-        "nickname": "RaonV",
-        "level": 103,
-        "job": "",
-        "server": "Scania 80",
-        "power": "819조 2466억\n02.17 기준"
       },
       {
         "rank": 171,
@@ -2093,6 +2093,14 @@
       },
       {
         "rank": 262,
+        "nickname": "팔비",
+        "level": 103,
+        "job": "",
+        "server": "Scania 78",
+        "power": "470조 8137억\n02.17 기준"
+      },
+      {
+        "rank": 263,
         "nickname": "한검펭",
         "level": 105,
         "job": "",
@@ -2100,7 +2108,7 @@
         "power": "465조 8945억\n02.17 기준"
       },
       {
-        "rank": 263,
+        "rank": 264,
         "nickname": "란쥐",
         "level": 106,
         "job": "",
@@ -2108,7 +2116,7 @@
         "power": "465조 5323억\n02.17 기준"
       },
       {
-        "rank": 264,
+        "rank": 265,
         "nickname": "즐겜해요",
         "level": 106,
         "job": "",
@@ -2116,7 +2124,7 @@
         "power": "465조 1644억\n02.17 기준"
       },
       {
-        "rank": 265,
+        "rank": 266,
         "nickname": "꿈의사탕",
         "level": 105,
         "job": "",
@@ -2124,7 +2132,7 @@
         "power": "462조 7340억\n02.17 기준"
       },
       {
-        "rank": 266,
+        "rank": 267,
         "nickname": "싼다핥아버지",
         "level": 105,
         "job": "",
@@ -2132,7 +2140,7 @@
         "power": "459조 761억\n02.17 기준"
       },
       {
-        "rank": 267,
+        "rank": 268,
         "nickname": "왕10리",
         "level": 105,
         "job": "",
@@ -2140,7 +2148,7 @@
         "power": "456조 6796억\n02.17 기준"
       },
       {
-        "rank": 268,
+        "rank": 269,
         "nickname": "지또롱",
         "level": 106,
         "job": "",
@@ -2148,7 +2156,7 @@
         "power": "456조 3598억\n02.17 기준"
       },
       {
-        "rank": 269,
+        "rank": 270,
         "nickname": "언주",
         "level": 105,
         "job": "",
@@ -2156,7 +2164,7 @@
         "power": "454조 9980억\n02.17 기준"
       },
       {
-        "rank": 270,
+        "rank": 271,
         "nickname": "노안돌미나리",
         "level": 106,
         "job": "",
@@ -2164,7 +2172,7 @@
         "power": "454조 8019억\n02.17 기준"
       },
       {
-        "rank": 271,
+        "rank": 272,
         "nickname": "szsz",
         "level": 106,
         "job": "",
@@ -2172,7 +2180,7 @@
         "power": "451조 6860억\n02.17 기준"
       },
       {
-        "rank": 272,
+        "rank": 273,
         "nickname": "다크랜서",
         "level": 106,
         "job": "",
@@ -2180,7 +2188,7 @@
         "power": "445조 5871억\n02.17 기준"
       },
       {
-        "rank": 273,
+        "rank": 274,
         "nickname": "훈청망청",
         "level": 105,
         "job": "",
@@ -2188,20 +2196,12 @@
         "power": "443조 5037억\n02.17 기준"
       },
       {
-        "rank": 274,
+        "rank": 275,
         "nickname": "썬탠",
         "level": 105,
         "job": "",
         "server": "Scania 17",
         "power": "439조 2805억\n02.17 기준"
-      },
-      {
-        "rank": 275,
-        "nickname": "팔비",
-        "level": 103,
-        "job": "",
-        "server": "Scania 78",
-        "power": "437조 8897억\n02.17 기준"
       },
       {
         "rank": 276,
@@ -2532,7 +2532,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 6",
-        "power": "4585조 7350억"
+        "power": "4588조 5163억"
       },
       {
         "rank": 15,
@@ -2568,7 +2568,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 66",
-        "power": "3711조 2946억"
+        "power": "3732조 4115억"
       },
       {
         "rank": 19,
@@ -2613,7 +2613,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 12",
-        "power": "3270조 1373억"
+        "power": "3271조 853억"
       },
       {
         "rank": 24,
@@ -2622,7 +2622,7 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 11",
-        "power": "2589조 5031억"
+        "power": "2589조 5059억"
       },
       {
         "rank": 25,
@@ -2644,15 +2644,6 @@
       },
       {
         "rank": 27,
-        "name": "오토",
-        "level": 8,
-        "members": 0,
-        "maxMembers": 30,
-        "server": "Scania 1",
-        "power": "2543조 2338억"
-      },
-      {
-        "rank": 28,
         "name": "소통",
         "level": 7,
         "members": 0,
@@ -2661,7 +2652,7 @@
         "power": "2541조 644억"
       },
       {
-        "rank": 29,
+        "rank": 28,
         "name": "겐조",
         "level": 7,
         "members": 0,
@@ -2670,7 +2661,7 @@
         "power": "2079조 6303억"
       },
       {
-        "rank": 30,
+        "rank": 29,
         "name": "유설",
         "level": 8,
         "members": 0,
@@ -2679,13 +2670,22 @@
         "power": "2078조 1458억"
       },
       {
-        "rank": 31,
+        "rank": 30,
         "name": "셀린느",
         "level": 8,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 5",
-        "power": "2069조 6007억"
+        "power": "2070조 496억"
+      },
+      {
+        "rank": 31,
+        "name": "오토",
+        "level": 8,
+        "members": 0,
+        "maxMembers": 30,
+        "server": "Scania 1",
+        "power": "2052조 7091억"
       },
       {
         "rank": 32,
@@ -2734,6 +2734,15 @@
       },
       {
         "rank": 37,
+        "name": "Charm",
+        "level": 6,
+        "members": 0,
+        "maxMembers": 30,
+        "server": "Scania 80",
+        "power": "1809조 7785억"
+      },
+      {
+        "rank": 38,
         "name": "해몽",
         "level": 8,
         "members": 0,
@@ -2742,22 +2751,13 @@
         "power": "1697조 2727억"
       },
       {
-        "rank": 38,
+        "rank": 39,
         "name": "호러",
         "level": 7,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 28",
         "power": "1692조 4258억"
-      },
-      {
-        "rank": 39,
-        "name": "Charm",
-        "level": 6,
-        "members": 0,
-        "maxMembers": 30,
-        "server": "Scania 80",
-        "power": "1689조 3129억"
       },
       {
         "rank": 40,
@@ -2847,10 +2847,19 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 81",
-        "power": "882조 6967억"
+        "power": "890조 3511억"
       },
       {
         "rank": 50,
+        "name": "지존",
+        "level": 8,
+        "members": 0,
+        "maxMembers": 30,
+        "server": "Scania 1",
+        "power": "883조 2701억"
+      },
+      {
+        "rank": 51,
         "name": "니플하임",
         "level": 8,
         "members": 0,
@@ -2859,7 +2868,7 @@
         "power": "858조 8824억"
       },
       {
-        "rank": 51,
+        "rank": 52,
         "name": "전력",
         "level": 7,
         "members": 0,
@@ -2868,7 +2877,7 @@
         "power": "845조 9310억"
       },
       {
-        "rank": 52,
+        "rank": 53,
         "name": "2월5일",
         "level": 2,
         "members": 0,
@@ -2877,7 +2886,7 @@
         "power": "812조 5438억"
       },
       {
-        "rank": 53,
+        "rank": 54,
         "name": "오한",
         "level": 7,
         "members": 0,
@@ -2886,7 +2895,7 @@
         "power": "798조 7166억"
       },
       {
-        "rank": 54,
+        "rank": 55,
         "name": "예수님",
         "level": 8,
         "members": 0,
@@ -2895,7 +2904,7 @@
         "power": "779조 5637억"
       },
       {
-        "rank": 55,
+        "rank": 56,
         "name": "뵤뵤",
         "level": 7,
         "members": 0,
@@ -2904,7 +2913,7 @@
         "power": "763조 7280억"
       },
       {
-        "rank": 56,
+        "rank": 57,
         "name": "냐희",
         "level": 3,
         "members": 0,
@@ -2913,16 +2922,16 @@
         "power": "742조 3012억"
       },
       {
-        "rank": 57,
+        "rank": 58,
         "name": "시도",
         "level": 6,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 82",
-        "power": "717조 6188억"
+        "power": "717조 8155억"
       },
       {
-        "rank": 58,
+        "rank": 59,
         "name": "딸기지갑단",
         "level": 9,
         "members": 0,
@@ -2931,7 +2940,7 @@
         "power": "709조 7481억"
       },
       {
-        "rank": 59,
+        "rank": 60,
         "name": "제비",
         "level": 7,
         "members": 0,
@@ -2940,7 +2949,7 @@
         "power": "697조 5550억"
       },
       {
-        "rank": 60,
+        "rank": 61,
         "name": "따또",
         "level": 7,
         "members": 0,
@@ -2949,7 +2958,7 @@
         "power": "677조 1335억"
       },
       {
-        "rank": 61,
+        "rank": 62,
         "name": "Wild",
         "level": 7,
         "members": 0,
@@ -2958,7 +2967,7 @@
         "power": "674조 2779억"
       },
       {
-        "rank": 62,
+        "rank": 63,
         "name": "직장인오토",
         "level": 6,
         "members": 0,
@@ -2967,16 +2976,16 @@
         "power": "657조 7229억"
       },
       {
-        "rank": 63,
+        "rank": 64,
         "name": "바하무트",
         "level": 8,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 3",
-        "power": "652조 468억"
+        "power": "657조 4214억"
       },
       {
-        "rank": 64,
+        "rank": 65,
         "name": "꾸미",
         "level": 7,
         "members": 0,
@@ -2985,7 +2994,7 @@
         "power": "650조 6835억"
       },
       {
-        "rank": 65,
+        "rank": 66,
         "name": "냐옹이",
         "level": 7,
         "members": 0,
@@ -2994,16 +3003,16 @@
         "power": "606조 3210억"
       },
       {
-        "rank": 66,
+        "rank": 67,
         "name": "미소",
         "level": 8,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 6",
-        "power": "601조 4086억"
+        "power": "601조 4305억"
       },
       {
-        "rank": 67,
+        "rank": 68,
         "name": "byebye",
         "level": 1,
         "members": 0,
@@ -3012,7 +3021,7 @@
         "power": "594조 3898억"
       },
       {
-        "rank": 68,
+        "rank": 69,
         "name": "블루베리",
         "level": 7,
         "members": 0,
@@ -3021,7 +3030,7 @@
         "power": "581조 2120억"
       },
       {
-        "rank": 69,
+        "rank": 70,
         "name": "시한부집합소",
         "level": 2,
         "members": 0,
@@ -3030,7 +3039,7 @@
         "power": "564조 4932억"
       },
       {
-        "rank": 70,
+        "rank": 71,
         "name": "외계인",
         "level": 8,
         "members": 0,
@@ -3039,7 +3048,7 @@
         "power": "562조 1740억"
       },
       {
-        "rank": 71,
+        "rank": 72,
         "name": "의상",
         "level": 1,
         "members": 0,
@@ -3048,7 +3057,7 @@
         "power": "554조 2302억"
       },
       {
-        "rank": 72,
+        "rank": 73,
         "name": "닭갈비",
         "level": 6,
         "members": 0,
@@ -3057,16 +3066,16 @@
         "power": "546조 4312억"
       },
       {
-        "rank": 73,
+        "rank": 74,
         "name": "반짝",
         "level": 8,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 11",
-        "power": "542조 6761억"
+        "power": "543조 604억"
       },
       {
-        "rank": 74,
+        "rank": 75,
         "name": "메타",
         "level": 8,
         "members": 0,
@@ -3075,16 +3084,25 @@
         "power": "532조 374억"
       },
       {
-        "rank": 75,
+        "rank": 76,
+        "name": "엘디",
+        "level": 6,
+        "members": 0,
+        "maxMembers": 30,
+        "server": "Scania 78",
+        "power": "527조 2133억"
+      },
+      {
+        "rank": 77,
         "name": "격살",
         "level": 8,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 9",
-        "power": "525조 5095억"
+        "power": "525조 5942억"
       },
       {
-        "rank": 76,
+        "rank": 78,
         "name": "가구베",
         "level": 7,
         "members": 0,
@@ -3093,16 +3111,7 @@
         "power": "497조 7104억"
       },
       {
-        "rank": 77,
-        "name": "엘디",
-        "level": 6,
-        "members": 0,
-        "maxMembers": 30,
-        "server": "Scania 78",
-        "power": "485조 8008억"
-      },
-      {
-        "rank": 78,
+        "rank": 79,
         "name": "야가다",
         "level": 7,
         "members": 0,
@@ -3111,16 +3120,16 @@
         "power": "478조 8573억"
       },
       {
-        "rank": 79,
+        "rank": 80,
         "name": "빅딜",
         "level": 8,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 5",
-        "power": "475조 2328억"
+        "power": "475조 2332억"
       },
       {
-        "rank": 80,
+        "rank": 81,
         "name": "욕망",
         "level": 7,
         "members": 0,
@@ -3129,22 +3138,13 @@
         "power": "462조 9416억"
       },
       {
-        "rank": 81,
+        "rank": 82,
         "name": "몬스터그룹",
         "level": 9,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 22",
         "power": "461조 2539억"
-      },
-      {
-        "rank": 82,
-        "name": "골든햄스터",
-        "level": 6,
-        "members": 0,
-        "maxMembers": 30,
-        "server": "Scania 10",
-        "power": "457조 1100억"
       },
       {
         "rank": 83,
@@ -3202,6 +3202,15 @@
       },
       {
         "rank": 89,
+        "name": "팔일",
+        "level": 6,
+        "members": 0,
+        "maxMembers": 30,
+        "server": "Scania 81",
+        "power": "411조 4842억"
+      },
+      {
+        "rank": 90,
         "name": "미개",
         "level": 7,
         "members": 0,
@@ -3210,22 +3219,13 @@
         "power": "411조 4229억"
       },
       {
-        "rank": 90,
+        "rank": 91,
         "name": "예티",
         "level": 8,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 47",
         "power": "403조 2501억"
-      },
-      {
-        "rank": 91,
-        "name": "팔일",
-        "level": 6,
-        "members": 0,
-        "maxMembers": 30,
-        "server": "Scania 81",
-        "power": "402조 3661억"
       },
       {
         "rank": 92,
@@ -3252,19 +3252,10 @@
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 13",
-        "power": "395조 4044억"
+        "power": "395조 3674억"
       },
       {
         "rank": 95,
-        "name": "지존",
-        "level": 8,
-        "members": 0,
-        "maxMembers": 30,
-        "server": "Scania 1",
-        "power": "387조 6106억"
-      },
-      {
-        "rank": 96,
         "name": "자은쓰레기",
         "level": 6,
         "members": 0,
@@ -3273,7 +3264,7 @@
         "power": "379조 9091억"
       },
       {
-        "rank": 97,
+        "rank": 96,
         "name": "강아지모여라",
         "level": 8,
         "members": 0,
@@ -3282,7 +3273,7 @@
         "power": "362조 7734억"
       },
       {
-        "rank": 98,
+        "rank": 97,
         "name": "채팅",
         "level": 7,
         "members": 0,
@@ -3291,7 +3282,7 @@
         "power": "354조 3609억"
       },
       {
-        "rank": 99,
+        "rank": 98,
         "name": "컬러",
         "level": 6,
         "members": 0,
@@ -3300,7 +3291,7 @@
         "power": "350조 651억"
       },
       {
-        "rank": 100,
+        "rank": 99,
         "name": "Pooky",
         "level": 7,
         "members": 0,
@@ -3309,7 +3300,7 @@
         "power": "339조 315억"
       },
       {
-        "rank": 101,
+        "rank": 100,
         "name": "청과점",
         "level": 6,
         "members": 0,
@@ -3318,7 +3309,7 @@
         "power": "335조 9473억"
       },
       {
-        "rank": 102,
+        "rank": 101,
         "name": "고점",
         "level": 8,
         "members": 0,
@@ -3327,16 +3318,16 @@
         "power": "327조 9407억"
       },
       {
-        "rank": 103,
+        "rank": 102,
         "name": "온랑",
         "level": 8,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 9",
-        "power": "325조 5722억"
+        "power": "325조 7110억"
       },
       {
-        "rank": 104,
+        "rank": 103,
         "name": "유희",
         "level": 7,
         "members": 0,
@@ -3345,7 +3336,7 @@
         "power": "311조 4228억"
       },
       {
-        "rank": 105,
+        "rank": 104,
         "name": "반역",
         "level": 7,
         "members": 0,
@@ -3354,7 +3345,7 @@
         "power": "310조 9693억"
       },
       {
-        "rank": 106,
+        "rank": 105,
         "name": "세비앙",
         "level": 5,
         "members": 0,
@@ -3363,7 +3354,7 @@
         "power": "306조 8405억"
       },
       {
-        "rank": 107,
+        "rank": 106,
         "name": "타락토끼",
         "level": 6,
         "members": 0,
@@ -3372,7 +3363,7 @@
         "power": "306조 5471억"
       },
       {
-        "rank": 108,
+        "rank": 107,
         "name": "삼공",
         "level": 7,
         "members": 0,
@@ -3381,25 +3372,25 @@
         "power": "304조 2259억"
       },
       {
-        "rank": 109,
+        "rank": 108,
         "name": "냐락",
         "level": 5,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 79",
-        "power": "301조 7960억"
+        "power": "301조 8561억"
       },
       {
-        "rank": 110,
+        "rank": 109,
         "name": "둥둥이",
         "level": 7,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 9",
-        "power": "291조 4850억"
+        "power": "291조 4903억"
       },
       {
-        "rank": 111,
+        "rank": 110,
         "name": "아레나",
         "level": 8,
         "members": 0,
@@ -3408,7 +3399,7 @@
         "power": "289조 9763억"
       },
       {
-        "rank": 112,
+        "rank": 111,
         "name": "별곰",
         "level": 7,
         "members": 0,
@@ -3417,7 +3408,7 @@
         "power": "279조 8248억"
       },
       {
-        "rank": 113,
+        "rank": 112,
         "name": "화투",
         "level": 7,
         "members": 0,
@@ -3426,7 +3417,7 @@
         "power": "275조 6109억"
       },
       {
-        "rank": 114,
+        "rank": 113,
         "name": "낙오",
         "level": 7,
         "members": 0,
@@ -3435,7 +3426,7 @@
         "power": "271조 8728억"
       },
       {
-        "rank": 115,
+        "rank": 114,
         "name": "사과는애플",
         "level": 6,
         "members": 0,
@@ -3444,7 +3435,7 @@
         "power": "269조 6419억"
       },
       {
-        "rank": 116,
+        "rank": 115,
         "name": "허밍버드",
         "level": 6,
         "members": 0,
@@ -3453,7 +3444,7 @@
         "power": "269조 3883억"
       },
       {
-        "rank": 117,
+        "rank": 116,
         "name": "무중력",
         "level": 6,
         "members": 0,
@@ -3462,7 +3453,7 @@
         "power": "260조 1242억"
       },
       {
-        "rank": 118,
+        "rank": 117,
         "name": "초련",
         "level": 7,
         "members": 0,
@@ -3471,7 +3462,7 @@
         "power": "251조 2345억"
       },
       {
-        "rank": 119,
+        "rank": 118,
         "name": "기일드",
         "level": 9,
         "members": 0,
@@ -3480,7 +3471,7 @@
         "power": "245조 6888억"
       },
       {
-        "rank": 120,
+        "rank": 119,
         "name": "고려장",
         "level": 2,
         "members": 0,
@@ -3489,7 +3480,7 @@
         "power": "231조 9980억"
       },
       {
-        "rank": 121,
+        "rank": 120,
         "name": "유이설",
         "level": 7,
         "members": 0,
@@ -3498,7 +3489,7 @@
         "power": "230조 9279억"
       },
       {
-        "rank": 122,
+        "rank": 121,
         "name": "살랑",
         "level": 7,
         "members": 0,
@@ -3507,7 +3498,7 @@
         "power": "230조 6657억"
       },
       {
-        "rank": 123,
+        "rank": 122,
         "name": "소금빵",
         "level": 7,
         "members": 0,
@@ -3516,7 +3507,7 @@
         "power": "230조 6170억"
       },
       {
-        "rank": 124,
+        "rank": 123,
         "name": "빨간클로버",
         "level": 7,
         "members": 0,
@@ -3525,7 +3516,7 @@
         "power": "229조 8125억"
       },
       {
-        "rank": 125,
+        "rank": 124,
         "name": "특수반",
         "level": 7,
         "members": 0,
@@ -3534,7 +3525,7 @@
         "power": "229조 2996억"
       },
       {
-        "rank": 126,
+        "rank": 125,
         "name": "작염",
         "level": 7,
         "members": 0,
@@ -3543,7 +3534,7 @@
         "power": "226조 4645억"
       },
       {
-        "rank": 127,
+        "rank": 126,
         "name": "성서99",
         "level": 8,
         "members": 0,
@@ -3552,7 +3543,7 @@
         "power": "225조 6604억"
       },
       {
-        "rank": 128,
+        "rank": 127,
         "name": "문라이트",
         "level": 7,
         "members": 0,
@@ -3561,7 +3552,7 @@
         "power": "219조 8026억"
       },
       {
-        "rank": 129,
+        "rank": 128,
         "name": "스탑",
         "level": 7,
         "members": 0,
@@ -3570,25 +3561,25 @@
         "power": "215조 6937억"
       },
       {
+        "rank": 129,
+        "name": "초감각",
+        "level": 5,
+        "members": 0,
+        "maxMembers": 30,
+        "server": "Scania 86",
+        "power": "210조 7931억"
+      },
+      {
         "rank": 130,
         "name": "WAFER",
         "level": 6,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 10",
-        "power": "210조 8458억"
+        "power": "210조 7402억"
       },
       {
         "rank": 131,
-        "name": "초감각",
-        "level": 5,
-        "members": 0,
-        "maxMembers": 30,
-        "server": "Scania 86",
-        "power": "210조 7541억"
-      },
-      {
-        "rank": 132,
         "name": "구니까",
         "level": 7,
         "members": 0,
@@ -3597,7 +3588,7 @@
         "power": "210조 6005억"
       },
       {
-        "rank": 133,
+        "rank": 132,
         "name": "푸리",
         "level": 5,
         "members": 0,
@@ -3606,16 +3597,16 @@
         "power": "206조 2715억"
       },
       {
-        "rank": 134,
+        "rank": 133,
         "name": "이븐",
         "level": 6,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 4",
-        "power": "204조 3960억"
+        "power": "204조 3977억"
       },
       {
-        "rank": 135,
+        "rank": 134,
         "name": "에버모어",
         "level": 8,
         "members": 0,
@@ -3624,13 +3615,22 @@
         "power": "202조 3186억"
       },
       {
-        "rank": 136,
+        "rank": 135,
         "name": "싸이월드",
         "level": 10,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 31",
         "power": "189조 7172억"
+      },
+      {
+        "rank": 136,
+        "name": "팡야",
+        "level": 6,
+        "members": 0,
+        "maxMembers": 30,
+        "server": "Scania 80",
+        "power": "187조 3725억"
       },
       {
         "rank": 137,
@@ -3643,51 +3643,42 @@
       },
       {
         "rank": 138,
-        "name": "팡야",
-        "level": 6,
-        "members": 0,
-        "maxMembers": 30,
-        "server": "Scania 80",
-        "power": "185조 4083억"
-      },
-      {
-        "rank": 139,
         "name": "괴콩",
         "level": 6,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 74",
-        "power": "183조 6727억"
+        "power": "183조 7134억"
       },
       {
-        "rank": 140,
+        "rank": 139,
         "name": "대구",
         "level": 6,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 1",
-        "power": "176조 9277억"
+        "power": "176조 9293억"
       },
       {
-        "rank": 141,
+        "rank": 140,
         "name": "느낌",
         "level": 7,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 9",
-        "power": "174조 8956억"
+        "power": "174조 9163억"
       },
       {
-        "rank": 142,
+        "rank": 141,
         "name": "레드스톤",
         "level": 5,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 80",
-        "power": "173조 808억"
+        "power": "173조 869억"
       },
       {
-        "rank": 143,
+        "rank": 142,
         "name": "제주시",
         "level": 7,
         "members": 0,
@@ -3696,7 +3687,7 @@
         "power": "171조 9832억"
       },
       {
-        "rank": 144,
+        "rank": 143,
         "name": "헝그리몬스터",
         "level": 7,
         "members": 0,
@@ -3705,7 +3696,7 @@
         "power": "170조 2745억"
       },
       {
-        "rank": 145,
+        "rank": 144,
         "name": "유랑",
         "level": 8,
         "members": 0,
@@ -3714,7 +3705,7 @@
         "power": "169조 9070억"
       },
       {
-        "rank": 146,
+        "rank": 145,
         "name": "지수",
         "level": 6,
         "members": 0,
@@ -3723,16 +3714,16 @@
         "power": "169조 307억"
       },
       {
-        "rank": 147,
+        "rank": 146,
         "name": "전생자",
         "level": 5,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 80",
-        "power": "168조 2958억"
+        "power": "168조 5799억"
       },
       {
-        "rank": 148,
+        "rank": 147,
         "name": "흑향",
         "level": 6,
         "members": 0,
@@ -3741,7 +3732,7 @@
         "power": "165조 9697억"
       },
       {
-        "rank": 149,
+        "rank": 148,
         "name": "빅보스",
         "level": 8,
         "members": 0,
@@ -3750,13 +3741,22 @@
         "power": "165조 4592억"
       },
       {
-        "rank": 150,
+        "rank": 149,
         "name": "절세미녀",
         "level": 7,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 51",
         "power": "162조 1688억"
+      },
+      {
+        "rank": 150,
+        "name": "영동대",
+        "level": 3,
+        "members": 0,
+        "maxMembers": 30,
+        "server": "Scania 38",
+        "power": "161조 3669억"
       }
     ]
   }
