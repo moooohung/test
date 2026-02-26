@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-25T21:36:36.489Z",
+  "updated_at": "2026-02-26T03:33:32.453Z",
   "players": {
     "total": 300,
     "data": [
@@ -2680,6 +2680,15 @@
       },
       {
         "rank": 31,
+        "name": "지존",
+        "level": 8,
+        "members": 0,
+        "maxMembers": 30,
+        "server": "Scania 1",
+        "power": "2059조 5087억"
+      },
+      {
+        "rank": 32,
         "name": "티아이",
         "level": 7,
         "members": 0,
@@ -2688,7 +2697,7 @@
         "power": "2048조 5177억"
       },
       {
-        "rank": 32,
+        "rank": 33,
         "name": "흑관",
         "level": 7,
         "members": 0,
@@ -2697,22 +2706,13 @@
         "power": "1921조 7713억"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "name": "초감각",
         "level": 7,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 86",
         "power": "1903조 6506억"
-      },
-      {
-        "rank": 34,
-        "name": "지존",
-        "level": 8,
-        "members": 0,
-        "maxMembers": 30,
-        "server": "Scania 1",
-        "power": "1902조 1412억"
       },
       {
         "rank": 35,
@@ -3598,15 +3598,6 @@
       },
       {
         "rank": 133,
-        "name": "대구",
-        "level": 6,
-        "members": 0,
-        "maxMembers": 30,
-        "server": "Scania 1",
-        "power": "181조 3124억"
-      },
-      {
-        "rank": 134,
         "name": "어벤저스",
         "level": 8,
         "members": 0,
@@ -3615,7 +3606,7 @@
         "power": "179조 4681억"
       },
       {
-        "rank": 135,
+        "rank": 134,
         "name": "작염",
         "level": 7,
         "members": 0,
@@ -3624,7 +3615,7 @@
         "power": "177조 6326억"
       },
       {
-        "rank": 136,
+        "rank": 135,
         "name": "환불런",
         "level": 6,
         "members": 0,
@@ -3633,7 +3624,7 @@
         "power": "171조 3393억"
       },
       {
-        "rank": 137,
+        "rank": 136,
         "name": "헝그리몬스터",
         "level": 7,
         "members": 0,
@@ -3642,7 +3633,7 @@
         "power": "170조 2745억"
       },
       {
-        "rank": 138,
+        "rank": 137,
         "name": "흑향",
         "level": 6,
         "members": 0,
@@ -3651,7 +3642,7 @@
         "power": "165조 9697억"
       },
       {
-        "rank": 139,
+        "rank": 138,
         "name": "빅보스",
         "level": 8,
         "members": 0,
@@ -3660,7 +3651,7 @@
         "power": "165조 4605억"
       },
       {
-        "rank": 140,
+        "rank": 139,
         "name": "절세미녀",
         "level": 7,
         "members": 0,
@@ -3669,7 +3660,7 @@
         "power": "162조 1688억"
       },
       {
-        "rank": 141,
+        "rank": 140,
         "name": "영동대",
         "level": 3,
         "members": 0,
@@ -3678,7 +3669,7 @@
         "power": "161조 3675억"
       },
       {
-        "rank": 142,
+        "rank": 141,
         "name": "친구넷",
         "level": 6,
         "members": 0,
@@ -3687,7 +3678,7 @@
         "power": "159조 8275억"
       },
       {
-        "rank": 143,
+        "rank": 142,
         "name": "잔잔바리",
         "level": 7,
         "members": 0,
@@ -3696,7 +3687,7 @@
         "power": "159조 6428억"
       },
       {
-        "rank": 144,
+        "rank": 143,
         "name": "DAYS",
         "level": 7,
         "members": 0,
@@ -3705,7 +3696,7 @@
         "power": "155조 5345억"
       },
       {
-        "rank": 145,
+        "rank": 144,
         "name": "스나이퍼",
         "level": 7,
         "members": 0,
@@ -3714,7 +3705,7 @@
         "power": "154조 5244억"
       },
       {
-        "rank": 146,
+        "rank": 145,
         "name": "왕국",
         "level": 8,
         "members": 0,
@@ -3723,7 +3714,7 @@
         "power": "152조 6944억"
       },
       {
-        "rank": 147,
+        "rank": 146,
         "name": "물범",
         "level": 8,
         "members": 0,
@@ -3732,7 +3723,7 @@
         "power": "148조 8834억"
       },
       {
-        "rank": 148,
+        "rank": 147,
         "name": "옵이탈",
         "level": 4,
         "members": 0,
@@ -3741,7 +3732,7 @@
         "power": "147조 9494억"
       },
       {
-        "rank": 149,
+        "rank": 148,
         "name": "교실",
         "level": 6,
         "members": 0,
@@ -3750,13 +3741,22 @@
         "power": "145조 2287억"
       },
       {
-        "rank": 150,
+        "rank": 149,
         "name": "보석바",
         "level": 5,
         "members": 0,
         "maxMembers": 30,
         "server": "Scania 8",
         "power": "143조 1264억"
+      },
+      {
+        "rank": 150,
+        "name": "Waltz",
+        "level": 6,
+        "members": 0,
+        "maxMembers": 30,
+        "server": "Scania 19",
+        "power": "140조 4310억"
       }
     ]
   }
